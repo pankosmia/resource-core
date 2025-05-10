@@ -1,10 +1,10 @@
 {
   "palette": {
     "primary": {
-      "main": "#FF0000"
+      "main": "#080"
     },
     "secondary": {
-      "main": "#FF7700"
+      "main": "#383"
     }
   }
 }
