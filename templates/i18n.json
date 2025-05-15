@@ -187,6 +187,12 @@
         "en": "Accept",
         "es": "Aceptar"
       }
+    },
+    "require_resources": {
+      "missing_resources": {
+        "en": "You need to install the following resource(s):",
+        "fr": "Vous devez installer une ou des ressources :"
+      }
     }
   },
   "munchers": {
