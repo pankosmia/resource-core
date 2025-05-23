@@ -1,0 +1,11 @@
+{
+	"tq": {
+		"label": "translationQuestions"
+	},
+	"tn": {
+		"label": "translationNotes"
+	},
+	"sq": {
+		"label": "studyQuestions"
+	}
+}
