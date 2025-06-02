@@ -202,6 +202,13 @@
         "id": "Catatan per Ayat"
       }
     },
+    "b_notes_viewer": {
+      "title": {
+        "ar": "ملاحظات بالآية",
+        "en": "Book Introductions",
+        "fr": "Introductions de livre"
+      }
+    },
     "tasteless": {
       "title": {
         "en": "Default Viewer",
@@ -262,20 +269,28 @@
         "fr": "Liens vidéo",
         "id": "Tautan video"
       },
-      "parascriptural/x-bcvArticles": {
+      "parascriptural/x-bcvarticles": {
         "en": "Articles by Verse",
         "fr": "Articles par verset",
         "id": "Artikel per ayat"
       },
-      "parascriptural/x-bcvQuestions": {
+      "parascriptural/x-bcvquestions": {
         "en": "Questions by Verse",
         "fr": "Questions par verset",
         "id": "Pertanyaan per ayat"
       },
-      "parascriptural/x-bcvNotes": {
+      "parascriptural/x-bcvnotes": {
         "en": "Notes by Verse",
         "fr": "Notes par verset",
         "id": "Catatan per Ayat"
+      },
+      "parascriptural/x-bnotes": {
+        "en": "Book Notes",
+        "fr": "Notes par livre"
+      },
+      "scripture/x-juxtalinear": {
+        "en": "Book Notes",
+        "fr": "Notes par livre"
       },
       "scripture/textTranslation": {
         "en": "Scripture (Text)",
