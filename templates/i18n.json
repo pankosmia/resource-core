@@ -298,10 +298,18 @@
         "id": "Kitab Suci (Teks)",
         "grc": "Γραφή"
       },
-      "parascriptural/x-bcvImages": {
+      "parascriptural/x-bcvimages": {
         "en": "Images by Verse",
         "fr": "Images par verset",
         "id": "Gambar per Ayat"
+      },
+      "parascriptural/x-juxtalinear": {
+        "en": "Juxtalinear Diglot",
+        "fr": "Juxtalinéaire bilangue"
+      },
+      "parascriptural/x-parallel": {
+        "en": "Parallel Gospels",
+        "fr": "Evangiles en parallèle"
       }
     }
   },
