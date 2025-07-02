@@ -230,6 +230,12 @@
         "id": "Penampil Kitab Suci (Teks)"
       }
     },
+    "bcv_audio_viewer": {
+      "title": {
+        "en": "Scripture (Audio) Viewer",
+        "fr": "Ecriture (audio), lecture seulement"
+      }
+    },
     "text_translation_editor": {
       "title": {
         "ar": "محرر الكتاب المقدس",
