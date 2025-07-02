@@ -298,6 +298,10 @@
         "id": "Kitab Suci (Teks)",
         "grc": "Γραφή"
       },
+      "scripture/audioTranslation": {
+        "en": "Scripture (Audio)",
+        "fr": "Ecriture (audio)"
+      },
       "parascriptural/x-bcvimages": {
         "en": "Images by Verse",
         "fr": "Images par verset",
