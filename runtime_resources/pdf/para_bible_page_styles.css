@@ -86,7 +86,7 @@ h1, h2, h3, h4, .paras_usfm_iot {
 
 /* paras CSS format : */
 .paras_default {
-    color: purple;
+    color: secondary;
 }
 .paras_usfm_b {
     min-height: 14pt;
