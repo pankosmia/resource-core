@@ -285,6 +285,11 @@
         "fr": "Questions par verset",
         "id": "Pertanyaan per ayat"
       },
+      "parascriptural/x-bcvQuestions": {
+        "en": "Questions by Verse",
+        "fr": "Questions par verset",
+        "id": "Pertanyaan per ayat"
+      },
       "parascriptural/x-bcvnotes": {
         "en": "Notes by Verse",
         "fr": "Notes par verset",
@@ -308,7 +313,7 @@
         "en": "Scripture (Audio)",
         "fr": "Ecriture (audio)"
       },
-      "parascriptural/x-bcvimages": {
+      "parascriptural/x-bcvImages": {
         "en": "Images by Verse",
         "fr": "Images par verset",
         "id": "Gambar per Ayat"
@@ -320,6 +325,26 @@
       "parascriptural/x-parallel": {
         "en": "Parallel Gospels",
         "fr": "Evangiles en parallèle"
+      },
+      "gloss/textStories": {
+        "en": "Text Stories",
+        "fr": "Récits bibliques (texte)"
+      },
+      "peripheral/x-obsquestions": {
+        "en": "OBS Questions",
+        "fr": "Questions OBS"
+      },
+      "peripheral/x-obsnotes": {
+        "en": "OBS Notes",
+        "fr": "Notes OBS"
+      },
+      "peripheral/x-obsarticles": {
+        "en": "OBS Articles",
+        "fr": "Articles OBS"
+      },
+      "peripheral/x-obsimages": {
+        "en": "OBS Images",
+        "fr": "Images OBS"
       }
     }
   },
