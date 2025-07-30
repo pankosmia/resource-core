@@ -2,7 +2,7 @@
   "languages": [
     "en"
   ],
-  "repo_dir": "%%WORKINGDIR%%/repos",
+  "repo_dir": "%%HOMEDIR%%/pankosmia_repos",
   "app_resources_dir": "%%APPRESOURCESDIR%%",
   "typography": {
     "direction": "ltr",
