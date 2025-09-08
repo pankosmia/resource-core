@@ -13,8 +13,8 @@
     "normalization": "NFC"
   },
   "idAuthorities": {
-    "_local_": {
-      "id": "_local_",
+    "local": {
+      "id": "http://_local_",
       "name": {
         "en": "Local Project"
       }
@@ -22,7 +22,7 @@
   },
   "identification": {
     "primary": {
-      "_local_": {
+      "local": {
         "%%ABBR%%": {
           "revision": "1",
           "timestamp": "%%CREATED_TIMESTAMP%%"
@@ -65,6 +65,10 @@
   "localizedNames": {},
   "ingredients": {},
   "copyright": {
-    "shortStatements": []
+    "shortStatements": [
+    {
+      "statement": "Copyright ©"
+    }
+]
   }
 }

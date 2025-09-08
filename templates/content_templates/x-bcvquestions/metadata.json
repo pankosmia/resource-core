@@ -13,8 +13,8 @@
     "normalization": "NFC"
   },
   "idAuthorities": {
-    "_local_": {
-      "id": "_local_",
+    "local": {
+      "id": "http://_local_",
       "name": {
         "en": "Local Project"
       }
@@ -61,6 +61,10 @@
   "localizedNames": {},
   "ingredients": {},
   "copyright": {
-    "shortStatements": []
+    "shortStatements": [
+      {
+        "statement": "Copyright ©"
+      }
+    ]
   }
 }
