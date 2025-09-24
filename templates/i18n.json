@@ -564,7 +564,7 @@
         "ar": "الكتاب المقدس، قراءة فقط",
         "en": "Scripture (Text) Viewer",
         "fr": "Ecriture (texte), lecture seulement",
-        "id": "Penampil Kitab Suci (Teks)"
+        "id": "Penampil Kitab Suci (Secara Tertulis)"
       }
     },
     "bcv_audio_viewer": {
@@ -579,7 +579,7 @@
         "ar": "محرر الكتاب المقدس",
         "en": "Scripture (Text) Editor",
         "fr": "Editeur d'Ecriture (texte)",
-        "id": "Editor Kitab Suci (Teks)"
+        "id": "Penampil Kitab Suci (Secara Tertulis)"
       }
     },
     "video_links_viewer": {
