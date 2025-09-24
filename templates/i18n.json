@@ -542,7 +542,8 @@
       "title": {
         "ar": "ملاحظات بالآية",
         "en": "Book Introductions",
-        "fr": "Introductions de livre"
+        "fr": "Introductions de livre",
+        "id": "Pengantar-pengantar Buku"
       }
     },
     "tasteless": {
@@ -569,7 +570,8 @@
     "bcv_audio_viewer": {
       "title": {
         "en": "Scripture (Audio) Viewer",
-        "fr": "Ecriture (audio), lecture seulement"
+        "fr": "Ecriture (audio), lecture seulement",
+        "id": "Kitab Suci (Secara Suara) Penampil"
       }
     },
     "text_translation_editor": {
