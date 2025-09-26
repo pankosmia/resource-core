@@ -499,10 +499,10 @@
         "id": "Yakin ingin menggunakan internet?"
       },
       "connected": {
-        "en": "Connected",
-        "fr": "Connecté",
-        "es": "Conectado",
-        "id": "Terhubung"
+        "en": "Connected to Internet",
+        "fr": "Connecté à Internet",
+        "es": "Conectado a Internet",
+        "id": "Terhubung ke Internet"
       },
       "disconnected": {
         "en": "Disconnected",
@@ -519,6 +519,16 @@
         "en": "Accept",
         "es": "Aceptar",
         "id": "Terima"
+      },
+      "experimental_mode": {
+        "en": "Experimental mode",
+        "fr": "Mode expérimental",
+        "es": "Modo experimental"
+      },
+      "advanced": {
+        "en": "Advanced",
+        "fr": "Avancé",
+        "es": "Avanzado"
       }
     },
     "require_resources": {
