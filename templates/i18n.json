@@ -498,11 +498,11 @@
         "es": "¿Estás seguro que quieres conectarte a la internet?",
         "id": "Yakin ingin menggunakan internet?"
       },
-      "connected": {
-        "en": "Connected to Internet",
-        "fr": "Connecté à Internet",
-        "es": "Conectado a Internet",
-        "id": "Terhubung ke Internet"
+      "offline_mode": {
+        "en": "Offline mode",
+        "fr": "Mode déconnecté",
+        "es": "Modo desconectado",
+        "id": "Mode luring"
       },
       "disconnected": {
         "en": "Disconnected",
