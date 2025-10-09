@@ -23,7 +23,6 @@
 body {
     font-family: "Pankosmia-Gentium", serif;
     font-size: 12pt;
-    line-height: 15pt;
 }
 
 
@@ -35,7 +34,6 @@ p {
 
 h1 {
     font-size: 24pt;
-    line-height: 30pt;
     font-weight: bold;
     margin: 0;
     margin-bottom: 0pt;
@@ -51,7 +49,6 @@ h1 {
     font-weight: bold;
     width: 50pt;
     font-size: 10pt;
-    line-height: 15pt;
 }
 .verseContent {
     display: inline-block;
@@ -76,7 +73,6 @@ h1 {
 .note {
     font-family: "Open Sans SemiCondensed", sans-serif;
     font-size: 12pt;
-    line-height: 15pt;
     text-align: left;
     float: footnote;
     margin-bottom: 0pt;
@@ -98,5 +94,4 @@ h1 {
 .cv {
     font-weight: bold;
     font-size: 10pt;
-    line-height: 15pt;
 }
