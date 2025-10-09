@@ -21,7 +21,6 @@
 
 
 body {
-    font-family: "Pankosmia-Gentium", serif;
     font-size: 12pt;
 }
 
@@ -40,7 +39,6 @@ h1 {
     border-bottom: 0pt solid black;
     padding-bottom: 0pt;
     width: 479pt;
-    font-family: "Pankosmia-Gentium", serif;
     break-after: avoid;
 }
 
@@ -71,14 +69,12 @@ h1 {
 }
 
 .note {
-    font-family: "Open Sans SemiCondensed", sans-serif;
     font-size: 12pt;
     text-align: left;
     float: footnote;
     margin-bottom: 0pt;
     padding-left: 6pt;
     text-indent: -6pt;
-    font-family: "Open Sans SemiCondensed", serif;
 }
 
 .note_n {

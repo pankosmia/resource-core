@@ -22,7 +22,6 @@
 
 body {
     font-size: 12pt;
-    font-family: Cardo, serif;
     text-align: justify;
     text-align-last: start;
 }
@@ -69,7 +68,6 @@ h1, h2, h3, h4, .paras_usfm_iot {
 .bcv_note {
     font-size: 10pt;
     float: footnote;
-    font-family: "Open Sans Condensed Light", sans-serif;
 }
 
 .bcv_note::footnote-call {
@@ -93,7 +91,6 @@ h1, h2, h3, h4, .paras_usfm_iot {
 .paras_usfm_f {
     font-size: 10pt;
     float: footnote;
-    font-family: "Open Sans Condensed Light", sans-serif;
 }
 /*
 .paras_usfm_hanging_graft {
@@ -108,7 +105,6 @@ h1, h2, h3, h4, .paras_usfm_iot {
     list-style-position: inside;
     padding-right: 24pt;
     text-indent: -12pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     break-inside: avoid;
 }
 .paras_usfm_ili2 {
@@ -117,7 +113,6 @@ h1, h2, h3, h4, .paras_usfm_iot {
     list-style-position: inside;
     padding-right: 36pt;
     text-indent: -12pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     break-inside: avoid;
 }
 .paras_usfm_ili3 {
@@ -126,69 +121,59 @@ h1, h2, h3, h4, .paras_usfm_iot {
     list-style-type: circle;
     padding-right: 48pt;
     text-indent: -12pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     break-inside: avoid;
 }
+/*
 .paras_usfm_im {
-    font-family: "Open Sans Condensed Light", sans-serif
 }
+*/
 .paras_usfm_imt {
     font-weight: normal;
     font-style: italic;
     font-size: 24pt;
     text-align: center;
-    font-family: "Open Sans Condensed Light", sans-serif;
 }
 .paras_usfm_imt2 {
     font-weight: normal;
     font-style: italic;
     font-size: 20pt;
     text-align: center;
-    font-family: "Open Sans Condensed Light", sans-serif;
 }
 .paras_usfm_imt3 {
     font-weight: normal;
     font-style: italic;
     font-size: 16pt;
     text-align: center;
-    font-family: "Open Sans Condensed Light", sans-serif;
 }
 .paras_usfm_ip {
     text-indent: 12pt;
-    font-family: "Open Sans Condensed Light", sans-serif
 }
 .paras_usfm_ipi {
     padding-right: 12pt;
     text-indent: 12pt;
-    font-family: "Open Sans Condensed Light", sans-serif
 }
 .paras_usfm_io {
     padding-right: 12pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     text-align: right;
 }
 .paras_usfm_iot {
     font-weight: bold;
     font-size: 14pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     text-align: right;
 }
 .paras_usfm_is {
     font-style: italic;
     font-size: 20pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     break-after: avoid;
 }
 .paras_usfm_is2 {
     font-style: italic;
     font-size: 16pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     break-after: avoid;
 }
 .paras_usfm_is3 {
     font-style: italic;
     font-size: 14pt;
-    font-family: "Open Sans Condensed Light", sans-serif;
     break-after: avoid;
 }
 .paras_usfm_li {
@@ -221,37 +206,31 @@ h1, h2, h3, h4, .paras_usfm_iot {
 .paras_usfm_mr {
     font-size: 14pt;
     font-style: italic;
-    font-family: Cardo, serif;
 }
 .paras_usfm_ms {
     font-size: 14pt;
     font-weight: bold;
-    font-family: Cardo, serif;
 }
 .paras_usfm_ms2 {
     font-weight: bold;
-    font-family: Cardo, serif;
 }
 .paras_usfm_mt {
     font-weight: normal;
     font-style: italic;
     font-size: 24pt;
     text-align: center;
-    font-family: Cardo, serif;
 }
 .paras_usfm_mt2 {
     font-weight: normal;
     font-style: italic;
     font-size: 20pt;
     text-align: center;
-    font-family: Cardo, serif;
 }
 .paras_usfm_mt3 {
     font-weight: normal;
     font-style: italic;
     font-size: 16pt;
     text-align: center;
-    font-family: Cardo, serif;
 }
 /*
 .paras_usfm_nb {
@@ -305,29 +284,24 @@ h1, h2, h3, h4, .paras_usfm_iot {
 }
 .paras_usfm_r {
     font-weight: bold;
-    font-family: Cardo, serif;
 }
 .paras_usfm_s {
     font-style: italic;
     font-size: 20pt;
-    font-family: Cardo, serif;
     text-align: right;
 }
 .paras_usfm_s2 {
     font-style: italic;
     font-size: 16pt;
-    font-family: Cardo, serif;
     text-align: right;
 }
 .paras_usfm_s3 {
     font-style: italic;
     font-size: 14pt;
-    font-family: Cardo, serif;
     text-align: right;
 }
 paras_usfm_sr {
     font-size: 16pt;
-    font-family: Cardo, serif;
     text-align: right;
 }
 /*
@@ -337,7 +311,6 @@ paras_usfm_sr {
 .paras_usfm_x {
     font-size: 10pt;
     float: footnote;
-    font-family: Cardo, serif;
 }
 /* marks CSS format : */
 /*
@@ -433,9 +406,10 @@ p:has(.marks_chapter_label) {
     font-size: smaller;
     text-transform: uppercase;
 }
+/*
 .wrappers_usfm_sls {
-    font-family: Cardo, serif;
 }
+*/
 .wrappers_usfm_tl {
     font-style: italic;
 }
