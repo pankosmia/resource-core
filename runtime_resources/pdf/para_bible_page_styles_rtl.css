@@ -321,7 +321,7 @@ paras_usfm_sr {
     font-size: 40pt;
     float: right;
     padding: 0;
-    margin: 0 6pt 0 0;
+    margin: 0 0 0 6pt;
     text-indent: 0;
     vertical-align: middle;
 }
