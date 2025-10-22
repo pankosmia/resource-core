@@ -11,12 +11,12 @@
     margin-top: 40pt;
 }
 @page :left {
-    margin-left: 44pt;
-    margin-right: 72pt;
-}
-@page :right {
     margin-left: 72pt;
     margin-right: 44pt;
+}
+@page :right {
+    margin-left: 44pt;
+    margin-right: 72pt;
 }
 
 
