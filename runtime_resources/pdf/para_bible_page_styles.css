@@ -145,6 +145,12 @@ h1, h2, h3, h4, .paras_usfm_iot {
     font-size: 16pt;
     text-align: center;
 }
+.paras_usfm_imt4 {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 14pt;
+    text-align: center;
+}
 .paras_usfm_ip {
     text-indent: 12pt;
 }
@@ -208,10 +214,15 @@ h1, h2, h3, h4, .paras_usfm_iot {
     font-style: italic;
 }
 .paras_usfm_ms {
-    font-size: 14pt;
+    font-size: 20pt;
     font-weight: bold;
 }
 .paras_usfm_ms2 {
+    font-size: 16pt;
+    font-weight: bold;
+}
+.paras_usfm_ms3 {
+    font-size: 14pt;
     font-weight: bold;
 }
 .paras_usfm_mt {
