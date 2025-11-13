@@ -623,6 +623,18 @@
         "fr": "Liens vidéo",
         "id": "Tautan video"
       },
+      "parascriptural/x-bcvvideo": {
+        "en": "Local Video",
+        "fr": "Vidéo locale"
+      },
+      "parascriptural/x-translationplan": {
+        "en": "Translation Plan",
+        "fr": "Schéma de traduction"
+      },
+      "parascriptural/x-tcore": {
+        "en": "tCore Project",
+        "fr": "projet tCore"
+      },
       "parascriptural/x-bcvarticles": {
         "en": "Articles by Verse",
         "fr": "Articles par verset",
