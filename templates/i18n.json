@@ -469,7 +469,7 @@
       "no_entry_if_offline": {
         "ar": "يجب أن تكون على الأنترنيت لترى هذه الصفحة  ",
         "en": "You need to be online to view this page.",
-        "fr": "Vous devez vous connecter à l'Internet pour accéder à cette page.",
+        "fr": "Vous devez vous connecter à internet pour accéder à cette page.",
         "id": "Halaman ini memerlukan akses internet.",
         "grc": "Πρέπει ἐπὶ τὸ δικτύδιον εἶναι ἵνα ἐκεῖ ἔλθῃς"
       }
@@ -477,7 +477,7 @@
     "header": {
       "more": {
         "en": "See all",
-        "fr": "Tout voir",
+        "fr": "Voir tout",
         "id": "Tampil semua"
       },
       "internet": {
@@ -487,14 +487,14 @@
         "id": "Internet"
       },
       "internet_question_label": {
-        "en": "Use Internet",
-        "fr": "Utiliser l'Internet",
-        "es": "Conectarse a la Internet",
-        "id": "Menggunakan Internet"
+        "en": "Use internet",
+        "fr": "Utiliser internet",
+        "es": "Conectarse a la internet",
+        "id": "Menggunakan internet"
       },
       "internet_question": {
-        "en": "Are you sure you want to use the internet?",
-        "fr": "Etes-vous certain de vouloir utiliser l'Internet ?",
+        "en": "Are you sure you want to use internet?",
+        "fr": "Êtes-vous certain de vouloir utiliser internet ?",
         "es": "¿Estás seguro que quieres conectarte a la internet?",
         "id": "Yakin ingin menggunakan internet?"
       },
@@ -512,11 +512,13 @@
       },
       "cancel": {
         "en": "Cancel",
+        "fr": "Annuler",
         "es": "Cancelar",
         "id": "Batal"
       },
       "accept": {
         "en": "Accept",
+        "fr": "Accepter",
         "es": "Aceptar",
         "id": "Terima"
       },
@@ -533,9 +535,9 @@
     },
     "require_resources": {
       "missing_resources": {
-        "en": "You need to install the following resource(s):",
-        "fr": "Vous devez installer une ou des ressources :",
-        "id": "Instal yang berikut ini:"
+        "en": "You need to install the following document(s):",
+        "fr": "Vous devez installer un ou des documents :",
+        "id": "@Instal yang berikut ini:"
       }
     }
   },
@@ -573,14 +575,14 @@
       "title": {
         "ar": "الكتاب المقدس، قراءة فقط",
         "en": "Scripture (Text) Viewer",
-        "fr": "Ecriture (texte), lecture seulement",
+        "fr": "Écriture (texte), lecture seulement",
         "id": "Penampil Kitab Suci (Secara Tertulis)"
       }
     },
     "bcv_audio_viewer": {
       "title": {
         "en": "Scripture (Audio) Viewer",
-        "fr": "Ecriture (audio), lecture seulement",
+        "fr": "Écriture (audio), lecture seulement",
         "id": "Kitab Suci (Secara Suara) Penampil"
       }
     },
@@ -588,7 +590,7 @@
       "title": {
         "ar": "محرر الكتاب المقدس",
         "en": "Scripture (Text) Editor",
-        "fr": "Editeur d'Ecriture (texte)",
+        "fr": "Éditeur d'Écriture (texte)",
         "id": "Penampil Kitab Suci (Secara Tertulis)"
       }
     },
@@ -610,8 +612,8 @@
         "id": "Tidak Didukungan Video di Peramban Web ini"
       },
       "offline_mode": {
-        "en": "Video links cannot be displayed in offline. Enable Internet access if it is safe to do so.",
-        "fr": "Impossible de suivre des liens vidéo on mode hors ligne. Activez la connection Internet si ça ne vous met pas en danger.",
+        "en": "Video links cannot be displayed in offline mode. Enable internet access if it is safe to do so.",
+        "fr": "Impossible de suivre des liens vidéo en mode hors-ligne. Activez la connexion internet si ça ne vous met pas en danger.",
         "id": "Tautan video tidak dapat ditampilkan tanpa internet. Mengaktifkan internet hanya kalau aman digunakan."
       }
     }
@@ -628,12 +630,12 @@
         "fr": "Vidéo locale"
       },
       "parascriptural/x-translationplan": {
-        "en": "Translation Plan",
-        "fr": "Schéma de traduction"
+        "en": "Translation Template",
+        "fr": "Template de traduction"
       },
       "parascriptural/x-tcore": {
         "en": "tCore Project",
-        "fr": "projet tCore"
+        "fr": "Projet tCore"
       },
       "parascriptural/x-bcvarticles": {
         "en": "Articles by Verse",
@@ -667,13 +669,13 @@
       },
       "scripture/textTranslation": {
         "en": "Scripture (Text)",
-        "fr": "Ecriture (texte)",
+        "fr": "Écriture (texte)",
         "id": "Kitab Suci (Secara Tertulis)",
         "grc": "Γραφή"
       },
       "scripture/audioTranslation": {
         "en": "Scripture (Audio)",
-        "fr": "Ecriture (audio)",
+        "fr": "Écriture (audio)",
         "id": "Kitab Suci (Secara Suara)"
       },
       "parascriptural/x-bcvImages": {
@@ -688,7 +690,7 @@
       },
       "parascriptural/x-parallel": {
         "en": "Parallel Gospels",
-        "fr": "Evangiles en parallèle",
+        "fr": "Évangiles en parallèle",
         "id": "Paralel Kitab Suci Injil"
       },
       "gloss/textStories": {
