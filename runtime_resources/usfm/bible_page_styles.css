@@ -332,6 +332,11 @@ p:has(.marks_chapter_label) {
     margin-right: 2pt;
     vertical-align: baseline;
 }
+.span_edit_verses {
+    white-space: normal !important;
+    overflow-wrap: normal;
+    -webkit-user-modify: read-write;
+}
 /* wrappers CSS format : */
 /*
 .wrappers_default {
