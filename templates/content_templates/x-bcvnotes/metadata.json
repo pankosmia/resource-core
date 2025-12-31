@@ -40,13 +40,7 @@
     }
   },
   "languages": [
-    {
-      "tag": "en",
-      "name": {
-        "en": "English"
-      },
-      "scriptDirection": "ltr"
-    }
+  %%LANGUAGE%%
   ],
   "type": {
     "flavorType": {
