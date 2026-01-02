@@ -45,7 +45,8 @@
     "en": "Abenaki, Eastern"
   },
   "aa": {
-    "en": "Afar", "endonym": "Qafar af"
+    "en": "Afar",
+    "aa": "Qafar af"
   },
   "aas": {
     "en": "Aasáx"
@@ -96,7 +97,8 @@
     "en": "Aka-Bea"
   },
   "ab": {
-    "en": "Abkhaz", "endonym": "Аҧсуа; Apsua; აფსუა"
+    "en": "Abkhaz",
+    "ab": "Аҧсуа; Apsua; აფსუა"
   },
   "abl": {
     "en": "Lampung Nyo"
@@ -348,7 +350,8 @@
     "en": "Tapei"
   },
   "af": {
-    "en": "Afrikaans", "endonym": "Afrikaans"
+    "en": "Afrikaans",
+    "af": "Afrikaans"
   },
   "afs": {
     "en": "Afro-Seminole Creole"
@@ -573,7 +576,8 @@
     "en": "Akan"
   },
   "ak": {
-    "en": "Akan", "endonym": "Ákán"
+    "en": "Akan",
+    "ak": "Ákán"
   },
   "akb": {
     "en": "Batak Angkola"
@@ -732,7 +736,8 @@
     "en": "Amurdak"
   },
   "am": {
-    "en": "Amharic", "endonym": "አማርኛ (Amarəñña)"
+    "en": "Amharic",
+    "am": "አማርኛ (Amarəñña)"
   },
   "ami": {
     "en": "Amis"
@@ -1026,7 +1031,8 @@
     "en": "Akuntsu"
   },
   "ar": {
-    "en": "Arabic", "endonym": "اَلْعَرَبِيَّةُ (al-ʿarabiyyah)"
+    "en": "Arabic",
+    "ar": "اَلْعَرَبِيَّةُ (al-ʿarabiyyah)"
   },
   "arb": {
     "en": "Arabic, Standard"
@@ -1038,7 +1044,8 @@
     "en": "Arrarnta, Western"
   },
   "an": {
-    "en": "Aragonese", "endonym": "Aragonés"
+    "en": "Aragonese",
+    "an": "Aragonés"
   },
   "arh": {
     "en": "Arhuaco"
@@ -1125,7 +1132,8 @@
     "en": "Asilulu"
   },
   "as": {
-    "en": "Assamese", "endonym": "অসমীয়া (Ôxômiya)"
+    "en": "Assamese",
+    "as": "অসমীয়া (Ôxômiya)"
   },
   "asn": {
     "en": "Asurini of Xingú"
@@ -1305,7 +1313,8 @@
     "en": "Arabic, Uzbeki"
   },
   "av": {
-    "en": "Avar", "endonym": "Авар мацӏ; اوار ماض (Avar maz)"
+    "en": "Avar",
+    "av": "Авар мацӏ; اوار ماض (Avar maz)"
   },
   "avb": {
     "en": "Avau"
@@ -1314,7 +1323,8 @@
     "en": "Alviri-Vidari"
   },
   "ae": {
-    "en": "Avestan", "endonym": "Upastawakaēna"
+    "en": "Avestan",
+    "ae": "Upastawakaēna"
   },
   "avi": {
     "en": "Avikam"
@@ -1449,7 +1459,8 @@
     "en": "Arabic, Libyan"
   },
   "ay": {
-    "en": "Aymara", "endonym": "Aymara"
+    "en": "Aymara",
+    "ay": "Aymara"
   },
   "ayn": {
     "en": "Arabic, Sanaani"
@@ -1488,7 +1499,8 @@
     "en": "Nahuatl, Eastern Durango"
   },
   "az": {
-    "en": "Azerbaijani", "endonym": "Azərbaycan dili; آذربایجان دیلی; Азәрбајҹан дили"
+    "en": "Azerbaijani",
+    "az": "Azərbaycan dili; آذربایجان دیلی; Азәрбајҹан дили"
   },
   "azg": {
     "en": "Amuzgo, San Pedro Amuzgos"
@@ -1536,9 +1548,12 @@
     "en": "Barakai"
   },
   "ba": {
-    "en": "Bashkort", "endonym": "Башҡорт теле; Başqort tele" },
+    "en": "Bashkort",
+    "ba": "Башҡорт теле; Başqort tele"
+  },
   "bm": {
-    "en": "Bamanankan", "endonym": "بَمَنَنكَن ;ߓߡߊߣߊ߲ߞߊ߲ (Bamanankan)"
+    "en": "Bamanankan",
+    "bm": "بَمَنَنكَن ;ߓߡߊߣߊ߲ߞߊ߲ (Bamanankan)"
   },
   "ban": {
     "en": "Bali (Indonesia)"
@@ -1832,13 +1847,15 @@
     "en": "Bebeli"
   },
   "be": {
-    "en": "Belarusian", "endonym": "Беларуская мова (Belaruskaâ mova)"
+    "en": "Belarusian",
+    "be": "Беларуская мова (Belaruskaâ mova)"
   },
   "bem": {
     "en": "Bemba"
   },
   "bn": {
-    "en": "Bengali", "endonym": "বাংলা (Bāŋlā)"
+    "en": "Bengali",
+    "bn": "বাংলা (Bāŋlā)"
   },
   "beo": {
     "en": "Bedamuni"
@@ -2135,7 +2152,8 @@
     "en": "Bisorio"
   },
   "bi": {
-    "en": "Bislama", "endonym": "Bislama"
+    "en": "Bislama",
+    "bi": "Bislama"
   },
   "bit": {
     "en": "Berinomo"
@@ -2525,7 +2543,8 @@
     "en": "Aweer"
   },
   "bo": {
-    "en": "Tibetan, Central", "endonym": "བོད་སྐད་ (Bodskad); ལྷ་སའི་སྐད་ (Lhas\"iskad)"
+    "en": "Tibetan, Central",
+    "bo": "བོད་སྐད་ (Bodskad); ལྷ་སའི་སྐད་ (Lhas\"iskad)"
   },
   "boe": {
     "en": "Mundabli"
@@ -2570,7 +2589,8 @@
     "en": "Borôro"
   },
   "bs": {
-    "en": "Bosnian", "endonym": "Босански (Bosanski)"
+    "en": "Bosnian",
+    "bs": "Босански (Bosanski)"
   },
   "bot": {
     "en": "Bongo"
@@ -2753,7 +2773,8 @@
     "en": "Baram"
   },
   "br": {
-    "en": "Breton", "endonym": "Brezhoneg"
+    "en": "Breton",
+    "br": "Brezhoneg"
   },
   "brf": {
     "en": "Bira"
@@ -2990,7 +3011,8 @@
     "en": "Bugawac"
   },
   "bg": {
-    "en": "Bulgarian", "endonym": "Български (Bulgarski)"
+    "en": "Bulgarian",
+    "bg": "Български (Bulgarski)"
   },
   "bum": {
     "en": "Bulu (Cameroon)"
@@ -3452,7 +3474,8 @@
     "en": "Tsimané"
   },
   "ca": {
-    "en": "Catalan", "endonym": "Català; Valencià"
+    "en": "Catalan",
+    "ca": "Català; Valencià"
   },
   "cav": {
     "en": "Cavineña"
@@ -3611,7 +3634,8 @@
     "en": "Ibaas"
   },
   "cs": {
-    "en": "Czech", "endonym": "Čeština"
+    "en": "Czech",
+    "cs": "Čeština"
   },
   "cet": {
     "en": "Centúúm"
@@ -3644,7 +3668,8 @@
     "en": "Chocangacakha"
   },
   "ch": {
-    "en": "Chamorro", "endonym": "Finu\" Chamoru"
+    "en": "Chamorro",
+    "ch": "Finu\" Chamoru"
   },
   "chb": {
     "en": "Chibcha"
@@ -3656,7 +3681,8 @@
     "en": "Chontal, Highland Oaxaca"
   },
   "ce": {
-    "en": "Chechen", "endonym": "Нохчийн мотт; (Noxçiyn mott)"
+    "en": "Chechen",
+    "ce": "Нохчийн мотт; (Noxçiyn mott)"
   },
   "chf": {
     "en": "Chontal, Tabasco"
@@ -3695,10 +3721,12 @@
     "en": "Cholón"
   },
   "cu": {
-    "en": "Slavonic, Church", "endonym": "Славе́нскїй ѧ҆зы́къ"
+    "en": "Slavonic, Church",
+    "cu": "Славе́нскїй ѧ҆зы́къ"
   },
   "cv": {
-    "en": "Chuvash", "endonym": "Чӑвашла (Çăvaşla)"
+    "en": "Chuvash",
+    "cv": "Чӑвашла (Çăvaşla)"
   },
   "chw": {
     "en": "Chuwabu"
@@ -4001,10 +4029,12 @@
     "en": "Coquille"
   },
   "kw": {
-    "en": "Cornish", "endonym": "Kernowek"
+    "en": "Cornish",
+    "kw": "Kernowek"
   },
   "co": {
-    "en": "Corsican", "endonym": "Corsu"
+    "en": "Corsican",
+    "co": "Corsu"
   },
   "cot": {
     "en": "Caquinte"
@@ -4073,7 +4103,8 @@
     "en": "Coeur d’Alene"
   },
   "cr": {
-    "en": "Cree", "endonym": "ᓀᐦᐃᔭᐁᐧᐃᐧᐣ (Nehiyawewin)"
+    "en": "Cree",
+    "cr": "ᓀᐦᐃᔭᐁᐧᐃᐧᐣ (Nehiyawewin)"
   },
   "crf": {
     "en": "Caramanta"
@@ -4343,7 +4374,8 @@
     "en": "Cayubaba"
   },
   "cy": {
-    "en": "Welsh", "endonym": "Cymraeg"
+    "en": "Welsh",
+    "cy": "Cymraeg"
   },
   "cyo": {
     "en": "Cuyonon"
@@ -4397,7 +4429,8 @@
     "en": "Damakawa"
   },
   "da": {
-    "en": "Danish", "endonym": "Dansk"
+    "en": "Danish",
+    "da": "Dansk"
   },
   "dao": {
     "en": "Chin, Daai"
@@ -4562,7 +4595,8 @@
     "en": "Desano"
   },
   "de": {
-    "en": "German, Standard", "endonym": "Deutsch"
+    "en": "German, Standard",
+    "de": "Deutsch"
   },
   "dev": {
     "en": "Domung"
@@ -4718,7 +4752,8 @@
     "en": "Gciriku"
   },
   "dv": {
-    "en": "Maldivian", "endonym": "ދިވެހި (Dhivehi)"
+    "en": "Maldivian",
+    "dv": "ދިވެހި (Dhivehi)"
   },
   "diw": {
     "en": "Dinka, Northwestern"
@@ -5225,7 +5260,8 @@
     "en": "Dzando"
   },
   "dz": {
-    "en": "Dzongkha", "endonym": "རྫོང་ཁ་ (Dzongkha)"
+    "en": "Dzongkha",
+    "dz": "རྫོང་ཁ་ (Dzongkha)"
   },
   "eaa": {
     "en": "Karenggapa"
@@ -5339,7 +5375,8 @@
     "en": "Elkei"
   },
   "el": {
-    "en": "Greek", "endonym": "Νέα Ελληνικά; (Néa Ellêniká)"
+    "en": "Greek",
+    "el": "Νέα Ελληνικά; (Néa Ellêniká)"
   },
   "elm": {
     "en": "Eleme"
@@ -5450,7 +5487,8 @@
     "en": "Epie"
   },
   "eo": {
-    "en": "Esperanto", "endonym": "Esperanto"
+    "en": "Esperanto",
+    "eo": "Esperanto"
   },
   "era": {
     "en": "Eravallan"
@@ -5516,7 +5554,8 @@
     "en": "Yupik, Saint Lawrence Island"
   },
   "et": {
-    "en": "Estonian", "endonym": "Eesti keel"
+    "en": "Estonian",
+    "et": "Eesti keel"
   },
   "esu": {
     "en": "Yupik, Central"
@@ -5558,7 +5597,8 @@
     "en": "Eudeve"
   },
   "eu": {
-    "en": "Basque", "endonym": "Euskara"
+    "en": "Basque",
+    "eu": "Euskara"
   },
   "eve": {
     "en": "Even"
@@ -5570,7 +5610,8 @@
     "en": "Evenki"
   },
   "ee": {
-    "en": "Éwé", "endonym": "Èʋegbe"
+    "en": "Éwé",
+    "ee": "Èʋegbe"
   },
   "ewo": {
     "en": "Ewondo"
@@ -5627,7 +5668,8 @@
     "en": "Fang (Equatorial Guinea)"
   },
   "fo": {
-    "en": "Faroese", "endonym": "Føroyskt"
+    "en": "Faroese",
+    "fo": "Føroyskt"
   },
   "fap": {
     "en": "Paloor"
@@ -5636,7 +5678,8 @@
     "en": "Fataleka"
   },
   "fa": {
-    "en": "Persian", "endonym": "فارسی (Fārsiy)"
+    "en": "Persian",
+    "fa": "فارسی (Fārsiy)"
   },
   "fau": {
     "en": "Fayu"
@@ -5675,13 +5718,15 @@
     "en": "Faifi"
   },
   "fj": {
-    "en": "Fijian", "endonym": "Na Vosa Vakaviti"
+    "en": "Fijian",
+    "fj": "Na Vosa Vakaviti"
   },
   "fil": {
     "en": "Filipino"
   },
   "fi": {
-    "en": "Finnish", "endonym": "Suomi"
+    "en": "Finnish",
+    "fi": "Suomi"
   },
   "fip": {
     "en": "Fipa"
@@ -5762,7 +5807,8 @@
     "en": "Momu"
   },
   "fr": {
-    "en": "French", "endonym": "Français"
+    "en": "French",
+    "fr": "Français"
   },
   "frc": {
     "en": "French, Cajun"
@@ -5786,7 +5832,8 @@
     "en": "Kiae"
   },
   "fy": {
-    "en": "Frisian", "endonym": "Frysk"
+    "en": "Frisian",
+    "fy": "Frysk"
   },
   "fse": {
     "en": "Finnish Sign Language"
@@ -5822,7 +5869,8 @@
     "en": "Ko"
   },
   "ff": {
-    "en": "Fulah", "endonym": "𞤊𞤵𞤤𞤬𞤵𞤤𞤣𞤫 ;ࢻُلْࢻُلْدٜ; Fulfulde 𞤆𞤵𞤤𞤢𞥄𞤪 ;ݒُلَارْ; Pulaar"
+    "en": "Fulah",
+    "ff": "𞤊𞤵𞤤𞤬𞤵𞤤𞤣𞤫 ;ࢻُلْࢻُلْدٜ; Fulfulde 𞤆𞤵𞤤𞤢𞥄𞤪 ;ݒُلَارْ; Pulaar"
   },
   "fum": {
     "en": "Fum"
@@ -6308,7 +6356,8 @@
     "en": "‡Ungkue"
   },
   "gd": {
-    "en": "Scottish Gaelic", "endonym": "Gàidhlig"
+    "en": "Scottish Gaelic",
+    "gd": "Gàidhlig"
   },
   "glb": {
     "en": "Belning"
@@ -6320,10 +6369,12 @@
     "en": "Nanai"
   },
   "ga": {
-    "en": "Irish", "endonym": "Gaeilge"
+    "en": "Irish",
+    "ga": "Gaeilge"
   },
   "gl": {
-    "en": "Galician", "endonym": "Galego"
+    "en": "Galician",
+    "gl": "Galego"
   },
   "glh": {
     "en": "Pashai, Northwest"
@@ -6347,7 +6398,8 @@
     "en": "Gula (Chad)"
   },
   "gv": {
-    "en": "Manx", "endonym": "Gaelg; Gailck"
+    "en": "Manx",
+    "gv": "Gaelg; Gailck"
   },
   "glw": {
     "en": "Glavda"
@@ -6545,7 +6597,8 @@
     "en": "Garasia, Rajput"
   },
   "grc": {
-    "en": "Greek, Ancient", "endonym": "Ἑλλάς"
+    "en": "Greek, Ancient",
+    "grc": "Ἑλλάς"
   },
   "grd": {
     "en": "Guruntum-Mbaaru"
@@ -6566,7 +6619,8 @@
     "en": "Kota Marudu Talantang"
   },
   "gn": {
-    "en": "Guarani", "endonym": "Avañe\"ẽ"
+    "en": "Guarani",
+    "gn": "Avañe\"ẽ"
   },
   "gro": {
     "en": "Groma"
@@ -6662,7 +6716,8 @@
     "en": "Guaraní, Eastern Bolivian"
   },
   "gu": {
-    "en": "Gujarati", "endonym": "ગુજરાતી (Gujarātī)"
+    "en": "Gujarati",
+    "gu": "ગુજરાતી (Gujarātī)"
   },
   "guk": {
     "en": "Gumuz"
@@ -6902,10 +6957,12 @@
     "en": "Haisla"
   },
   "ht": {
-    "en": "Haitian Creole", "endonym": "Kreyòl ayisyen"
+    "en": "Haitian Creole",
+    "ht": "Kreyòl ayisyen"
   },
   "ha": {
-    "en": "Hausa", "endonym": "هَرْشٜن هَوْس (halshen Hausa)"
+    "en": "Hausa",
+    "ha": "هَرْشٜن هَوْس (halshen Hausa)"
   },
   "hav": {
     "en": "Havu"
@@ -6956,7 +7013,8 @@
     "en": "Miao, Northern Qiandong"
   },
   "he": {
-    "en": "Hebrew", "endonym": "עברית‎ (Ivrit)"
+    "en": "Hebrew",
+    "he": "עברית‎ (Ivrit)"
   },
   "hed": {
     "en": "Herdé"
@@ -6974,7 +7032,8 @@
     "en": "Hemba"
   },
   "hz": {
-    "en": "Herero", "endonym": "Otjiherero"
+    "en": "Herero",
+    "hz": "Otjiherero"
   },
   "hgm": {
     "en": "Hai|ǁom"
@@ -7022,7 +7081,8 @@
     "en": "Hiligaynon"
   },
   "hi": {
-    "en": "Hindi", "endonym": "हिन्दी (Hindī)"
+    "en": "Hindi",
+    "hi": "हिन्दी (Hindī)"
   },
   "hio": {
     "en": "Tshuwau"
@@ -7109,7 +7169,8 @@
     "en": "Miao, Central Mashan"
   },
   "ho": {
-    "en": "Motu, Hiri", "endonym": "Hiri Motu"
+    "en": "Motu, Hiri",
+    "ho": "Hiri Motu"
   },
   "hmp": {
     "en": "Miao, Northern Mashan"
@@ -7268,7 +7329,8 @@
     "en": "Hruso"
   },
   "hr": {
-    "en": "Croatian", "endonym": "Hrvatski"
+    "en": "Croatian",
+    "hr": "Hrvatski"
   },
   "hrw": {
     "en": "Warwar Feni"
@@ -7343,7 +7405,8 @@
     "en": "Hungana"
   },
   "hu": {
-    "en": "Hungarian", "endonym": "Magyar nyelv"
+    "en": "Hungarian",
+    "hu": "Magyar nyelv"
   },
   "huo": {
     "en": "Hu"
@@ -7409,7 +7472,8 @@
     "en": "Hya"
   },
   "hy": {
-    "en": "Armenian", "endonym": "Հայերեն (Hayeren)"
+    "en": "Armenian",
+    "hy": "Հայերեն (Hayeren)"
   },
   "hyw": {
     "en": "Armenian, Western"
@@ -7451,7 +7515,8 @@
     "en": "Ibino"
   },
   "ig": {
-    "en": "Igbo", "endonym": "ásụ̀sụ́ Ìgbò"
+    "en": "Igbo",
+    "ig": "ásụ̀sụ́ Ìgbò"
   },
   "ibr": {
     "en": "Ibuoro"
@@ -7640,7 +7705,8 @@
     "en": "Garig-Ilgar"
   },
   "ii": {
-    "en": "Ili Turki", "endonym": "ꆈꌠꉙ (Nuosuhxop)"
+    "en": "Ili Turki",
+    "ii": "ꆈꌠꉙ (Nuosuhxop)"
   },
   "ilk": {
     "en": "Bogkalot"
@@ -7688,7 +7754,8 @@
     "en": "Inga"
   },
   "id": {
-    "en": "Indonesian", "endonym": "bahasa Indonesia"
+    "en": "Indonesian",
+    "id": "bahasa Indonesia"
   },
   "ing": {
     "en": "Deg Xinag"
@@ -7733,7 +7800,8 @@
     "en": "Ipili"
   },
   "ik": {
-    "en": "Inupiaq", "endonym": "Iñupiaq"
+    "en": "Inupiaq",
+    "ik": "Iñupiaq"
   },
   "ipo": {
     "en": "Ipiko"
@@ -7796,7 +7864,8 @@
     "en": "Ishkashimi"
   },
   "is": {
-    "en": "Icelandic", "endonym": "Íslenska"
+    "en": "Icelandic",
+    "is": "Íslenska"
   },
   "ism": {
     "en": "Masimasi"
@@ -7817,7 +7886,8 @@
     "en": "Isu"
   },
   "it": {
-    "en": "Italian", "endonym": "Italiano"
+    "en": "Italian",
+    "it": "Italiano"
   },
   "itb": {
     "en": "Itneg, Binongan"
@@ -7967,7 +8037,8 @@
     "en": "Yaur"
   },
   "jv": {
-    "en": "Javanese", "endonym": "ꦧꦱꦗꦮ; basa Jawa"
+    "en": "Javanese",
+    "jv": "ꦧꦱꦗꦮ; basa Jawa"
   },
   "jax": {
     "en": "Malay, Jambi"
@@ -8225,7 +8296,8 @@
     "en": "Jowulu"
   },
   "ja": {
-    "en": "Japanese", "endonym": "日本語 (Nihongo)"
+    "en": "Japanese",
+    "ja": "日本語 (Nihongo)"
   },
   "jpr": {
     "en": "Judeo-Persian"
@@ -8351,13 +8423,15 @@
     "en": "Kalanguya"
   },
   "kl": {
-    "en": "Greenlandic", "endonym": "Kalaallisut"
+    "en": "Greenlandic",
+    "kl": "Kalaallisut"
   },
   "kam": {
     "en": "Kamba"
   },
   "kn": {
-    "en": "Kannada", "endonym": "ಕನ್ನಡ (Kannađa)"
+    "en": "Kannada",
+    "kn": "ಕನ್ನಡ (Kannađa)"
   },
   "kao": {
     "en": "Xaasongaxango"
@@ -8369,13 +8443,16 @@
     "en": "Capanahua"
   },
   "ks": {
-    "en": "Kashmiri", "endonym": "कॉशुर; كأشُر (Kosher)"
+    "en": "Kashmiri",
+    "ks": "कॉशुर; كأشُر (Kosher)"
   },
   "ka": {
-    "en": "Georgian", "endonym": "ქართული (Kharthuli)"
+    "en": "Georgian",
+    "ka": "ქართული (Kharthuli)"
   },
   "kr": {
-    "en": "Kanuri", "endonym": "كَنُرِيِه; Kànùrí"
+    "en": "Kanuri",
+    "kr": "كَنُرِيِه; Kànùrí"
   },
   "kav": {
     "en": "Katukína"
@@ -8387,7 +8464,8 @@
     "en": "Kamayurá"
   },
   "kk": {
-    "en": "Kazakh", "endonym": "Қазақша; Qazaqşa"
+    "en": "Kazakh",
+    "kk": "Қазақша; Qazaqşa"
   },
   "kba": {
     "en": "Kalarko"
@@ -8861,7 +8939,8 @@
     "en": "Lusi"
   },
   "km": {
-    "en": "Khmer", "endonym": "ខេមរភាសា; (Khémôrôphéasa)"
+    "en": "Khmer",
+    "km": "ខេមរភាសា; (Khémôrôphéasa)"
   },
   "khn": {
     "en": "Khandesi"
@@ -8930,7 +9009,8 @@
     "en": "Kilivila"
   },
   "ki": {
-    "en": "Gikuyu", "endonym": "Gĩgĩkũyũ"
+    "en": "Gikuyu",
+    "ki": "Gĩgĩkũyũ"
   },
   "kil": {
     "en": "Kariya"
@@ -8939,7 +9019,8 @@
     "en": "Karagas"
   },
   "rw": {
-    "en": "Kinyarwanda", "endonym": "Ikinyarwanda"
+    "en": "Kinyarwanda",
+    "rw": "Ikinyarwanda"
   },
   "kio": {
     "en": "Kiowa"
@@ -8951,7 +9032,8 @@
     "en": "Kosare"
   },
   "ky": {
-    "en": "Kyrgyz", "endonym": "Кыргыз"
+    "en": "Kyrgyz",
+    "ky": "Кыргыз"
   },
   "kis": {
     "en": "Kis"
@@ -9380,10 +9462,12 @@
     "en": "Kol (Papua New Guinea)"
   },
   "kv": {
-    "en": "Komi", "endonym": "Коми кыв"
+    "en": "Komi",
+    "kv": "Коми кыв"
   },
   "kg": {
-    "en": "Kongo", "endonym": "Kikongo"
+    "en": "Kongo",
+    "kg": "Kikongo"
   },
   "koo": {
     "en": "Konzo"
@@ -9395,7 +9479,8 @@
     "en": "Kota (Gabon)"
   },
   "ko": {
-    "en": "Korean", "endonym": "한국어 (Hangugeo) 조선말 (Chosŏnmal)"
+    "en": "Korean",
+    "ko": "한국어 (Hangugeo) 조선말 (Chosŏnmal)"
   },
   "kos": {
     "en": "Kosraean"
@@ -9782,7 +9867,8 @@
     "en": "Juǀ’hoansi"
   },
   "kj": {
-    "en": "Oshiwambo", "endonym": "Oshikwanyama"
+    "en": "Oshiwambo",
+    "kj": "Oshikwanyama"
   },
   "kub": {
     "en": "Kutep"
@@ -9833,7 +9919,8 @@
     "en": "Karipuna"
   },
   "ku": {
-    "en": "Kurdish", "endonym": "کوردی; Kurdî"
+    "en": "Kurdish",
+    "ku": "کوردی; Kurdî"
   },
   "kus": {
     "en": "Kusaal"
@@ -10256,7 +10343,8 @@
     "en": "Laru"
   },
   "lo": {
-    "en": "Lao", "endonym": "ພາສາລາວ (phasa Lao)"
+    "en": "Lao",
+    "lo": "ພາສາລາວ (phasa Lao)"
   },
   "lap": {
     "en": "Laka"
@@ -10271,13 +10359,15 @@
     "en": "Lama"
   },
   "la": {
-    "en": "Latin", "endonym": "Latinum"
+    "en": "Latin",
+    "la": "Latinum"
   },
   "lau": {
     "en": "Laba"
   },
   "lv": {
-    "en": "Latvian", "endonym": "Latviski"
+    "en": "Latvian",
+    "lv": "Latviski"
   },
   "law": {
     "en": "Lauje"
@@ -10616,10 +10706,12 @@
     "en": "Lillooet"
   },
   "li": {
-    "en": "Limburgish", "endonym": "Lèmburgs"
+    "en": "Limburgish",
+    "li": "Lèmburgs"
   },
   "ln": {
-    "en": "Lingala", "endonym": "Lingála"
+    "en": "Lingala",
+    "ln": "Lingála"
   },
   "lio": {
     "en": "Liki"
@@ -10637,7 +10729,8 @@
     "en": "Lisu"
   },
   "lt": {
-    "en": "Lithuanian", "endonym": "Lietuvių"
+    "en": "Lithuanian",
+    "lt": "Lietuvių"
   },
   "liu": {
     "en": "Logorik"
@@ -11102,13 +11195,15 @@
     "en": "Latu"
   },
   "lb": {
-    "en": "Luxembourgish", "endonym": "Lëtzebuergesch"
+    "en": "Luxembourgish",
+    "lb": "Lëtzebuergesch"
   },
   "lua": {
     "en": "Luba-Kasai"
   },
   "lu": {
-    "en": "Luba-Katanga", "endonym": "Kiluba"
+    "en": "Luba-Katanga",
+    "lu": "Kiluba"
   },
   "luc": {
     "en": "Aringa"
@@ -11123,7 +11218,8 @@
     "en": "Laua"
   },
   "lg": {
-    "en": "Ganda", "endonym": "Luganda"
+    "en": "Ganda",
+    "lg": "Luganda"
   },
   "luh": {
     "en": "Chinese, Leizhou"
@@ -11270,7 +11366,8 @@
     "en": "Magahi"
   },
   "mh": {
-    "en": "Marshallese", "endonym": "kajin M̧ajel‌̧"
+    "en": "Marshallese",
+    "mh": "kajin M̧ajel‌̧"
   },
   "mai": {
     "en": "Maithili"
@@ -11282,7 +11379,8 @@
     "en": "Makasar"
   },
   "ml": {
-    "en": "Malayalam", "endonym": "മലയാളം (Malayāļã)"
+    "en": "Malayalam",
+    "ml": "മലയാളം (Malayāļã)"
   },
   "mam": {
     "en": "Mam"
@@ -11291,7 +11389,8 @@
     "en": "Mazatec, Chiquihuitlán"
   },
   "mr": {
-    "en": "Marathi", "endonym": "मराठी (Marāṭhī)"
+    "en": "Marathi",
+    "mr": "मराठी (Marāṭhī)"
   },
   "mas": {
     "en": "Maasai"
@@ -11990,7 +12089,8 @@
     "en": "Siliput"
   },
   "mk": {
-    "en": "Macedonian", "endonym": "Македонски (Makedonski)"
+    "en": "Macedonian",
+    "mk": "Македонски (Makedonski)"
   },
   "mke": {
     "en": "Mawchi"
@@ -12071,7 +12171,8 @@
     "en": "Mal"
   },
   "mg": {
-    "en": "Malagasy", "endonym": "مَلَغَسِ; Malagasy"
+    "en": "Malagasy",
+    "mg": "مَلَغَسِ; Malagasy"
   },
   "mlh": {
     "en": "Mape"
@@ -12110,7 +12211,8 @@
     "en": "Masalit"
   },
   "mt": {
-    "en": "Maltese", "endonym": "Malti"
+    "en": "Maltese",
+    "mt": "Malti"
   },
   "mlu": {
     "en": "To’abaita"
@@ -12305,7 +12407,8 @@
     "en": "Mangue"
   },
   "mn": {
-    "en": "Mongolian", "endonym": "ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ; Монгол хэл (Mongol xel)"
+    "en": "Mongolian",
+    "mn": "ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ; Монгол хэл (Mongol xel)"
   },
   "moo": {
     "en": "Monom"
@@ -12518,7 +12621,8 @@
     "en": "Mara"
   },
   "mi": {
-    "en": "Maori", "endonym": "reo Māori"
+    "en": "Maori",
+    "mi": "reo Māori"
   },
   "mrj": {
     "en": "Mari, Hill"
@@ -12569,7 +12673,8 @@
     "en": "Marind"
   },
   "ms": {
-    "en": "Malay", "endonym": "بهاس ملايو (bahasa Melayu)"
+    "en": "Malay",
+    "ms": "بهاس ملايو (bahasa Melayu)"
   },
   "msb": {
     "en": "Masbatenyo"
@@ -12992,7 +13097,8 @@
     "en": "Masela, Central"
   },
   "my": {
-    "en": "Burmese", "endonym": "မြန်မာစာ (Mrãmācā)"
+    "en": "Burmese",
+    "my": "မြန်မာစာ (Mrãmācā)"
   },
   "myb": {
     "en": "Mbay"
@@ -13178,10 +13284,12 @@
     "en": "Cahungwarya"
   },
   "na": {
-    "en": "Nauruan", "endonym": "dorerin Naoe"
+    "en": "Nauruan",
+    "na": "dorerin Naoe"
   },
   "nv": {
-    "en": "Navajo", "endonym": "Diné bizaad; Naabeehó bizaad"
+    "en": "Navajo",
+    "nv": "Diné bizaad; Naabeehó bizaad"
   },
   "naw": {
     "en": "Nawuri"
@@ -13226,7 +13334,8 @@
     "en": "Nake"
   },
   "nr": {
-    "en": "Ndebele (South Africa)", "endonym": "isiNdebele; sakwaNdzundza"
+    "en": "Ndebele (South Africa)",
+    "nr": "isiNdebele; sakwaNdzundza"
   },
   "nbm": {
     "en": "Ngbaka Ma’bo"
@@ -13340,7 +13449,8 @@
     "en": "Nde-Nsele-Nta"
   },
   "nd": {
-    "en": "Ndebele (Zimbabwe)", "endonym": "isiNdebele; saseNyakatho; Mthwakazi Ndebele"
+    "en": "Ndebele (Zimbabwe)",
+    "nd": "isiNdebele; saseNyakatho; Mthwakazi Ndebele"
   },
   "ndg": {
     "en": "Ndengereko"
@@ -13367,7 +13477,8 @@
     "en": "Ngundi"
   },
   "ng": {
-    "en": "Ndonga", "endonym": "Ndonga"
+    "en": "Ndonga",
+    "ng": "Ndonga"
   },
   "ndp": {
     "en": "Kebu"
@@ -13442,7 +13553,8 @@
     "en": "Ná-Meo"
   },
   "ne": {
-    "en": "Nepali", "endonym": "नेपाली भाषा (Nepālī bhāśā)"
+    "en": "Nepali",
+    "ne": "नेपाली भाषा (Nepālī bhāśā)"
   },
   "neq": {
     "en": "Mixe, North Central"
@@ -13829,7 +13941,8 @@
     "en": "Nalca"
   },
   "nl": {
-    "en": "Dutch", "endonym": "Nederlands"
+    "en": "Dutch",
+    "nl": "Nederlands"
   },
   "nle": {
     "en": "Nyala"
@@ -14063,13 +14176,16 @@
     "en": "Ngongo"
   },
   "no": {
-    "en": "Norwegian", "endonym": "Norsk"
+    "en": "Norwegian",
+    "no": "Norsk"
   },
   "nb": {
-    "en": "Norwegian Bokmål", "endonym": "Norsk Bokmål"
+    "en": "Norwegian Bokmål",
+    "nb": "Norsk Bokmål"
   },
   "nn": {
-    "en": "Norwegian Nynorsk", "endonym": "Norsk Nynorsk"
+    "en": "Norwegian Nynorsk",
+    "nn": "Norsk Nynorsk"
   },
   "nos": {
     "en": "Nisu, Eastern"
@@ -14462,7 +14578,8 @@
     "en": "Nafri"
   },
   "ny": {
-    "en": "Chichewa", "endonym": "Chichewa; Chinyanja"
+    "en": "Chichewa",
+    "ny": "Chichewa; Chinyanja"
   },
   "nyb": {
     "en": "Nyagbo"
@@ -14594,7 +14711,8 @@
     "en": "Ocaina"
   },
   "oc": {
-    "en": "Occitan", "endonym": "Occitan; Provençal"
+    "en": "Occitan",
+    "oc": "Occitan; Provençal"
   },
   "ocu": {
     "en": "Matlatzinca, Atzingo"
@@ -14648,7 +14766,8 @@
     "en": "Ojibwa, Eastern"
   },
   "oj": {
-    "en": "Ojibwa", "endonym": "ᐊᓂᔑᓈᐯᒧᐎᓐ (Anishinaabemowin)"
+    "en": "Ojibwa",
+    "oj": "ᐊᓂᔑᓈᐯᒧᐎᓐ (Anishinaabemowin)"
   },
   "ojs": {
     "en": "Oji-Cree"
@@ -14858,10 +14977,12 @@
     "en": "Oroqen"
   },
   "or": {
-    "en": "Oriya", "endonym": "ଓଡ଼ିଆ (Odia)"
+    "en": "Oriya",
+    "or": "ଓଡ଼ିଆ (Odia)"
   },
   "om": {
-    "en": "Oromo", "endonym": "afaan Oromoo"
+    "en": "Oromo",
+    "om": "afaan Oromoo"
   },
   "orn": {
     "en": "Orang Kanaq"
@@ -14903,7 +15024,8 @@
     "en": "Ososo"
   },
   "os": {
-    "en": "Ossetic", "endonym": "дигорон Ӕвзаг (digoron Ævzag)"
+    "en": "Ossetic",
+    "os": "дигорон Ӕвзаг (digoron Ævzag)"
   },
   "ost": {
     "en": "Osatu"
@@ -15017,7 +15139,8 @@
     "en": "Kapampangan"
   },
   "pa": {
-    "en": "Punjabi, Eastern", "endonym": "ਪੰਜਾਬੀ; پنجابی (Pãjābī)"
+    "en": "Punjabi, Eastern",
+    "pa": "ਪੰਜਾਬੀ; پنجابی (Pãjābī)"
   },
   "pao": {
     "en": "Paiute, Northern"
@@ -15431,7 +15554,8 @@
     "en": "Paulohi"
   },
   "pi": {
-    "en": "Pali", "endonym": "Pāli"
+    "en": "Pali",
+    "pi": "Pāli"
   },
   "plk": {
     "en": "Shina, Kohistani"
@@ -15623,7 +15747,8 @@
     "en": "Pokangá"
   },
   "pl": {
-    "en": "Polish", "endonym": "Polski"
+    "en": "Polish",
+    "pl": "Polski"
   },
   "pom": {
     "en": "Pomo, Southeastern"
@@ -15641,7 +15766,8 @@
     "en": "Popoluca, Texistepec"
   },
   "pt": {
-    "en": "Portuguese", "endonym": "Português"
+    "en": "Portuguese",
+    "pt": "Português"
   },
   "pos": {
     "en": "Popoluca, Sayula"
@@ -15896,7 +16022,8 @@
     "en": "Puruborá"
   },
   "ps": {
-    "en": "Pashto, Pushto", "endonym": "پښتو (Pax̌tow)"
+    "en": "Pashto, Pushto",
+    "ps": "پښتو (Pax̌tow)"
   },
   "put": {
     "en": "Putoh"
@@ -15983,7 +16110,8 @@
     "en": "Quichua, Calderón Highland"
   },
   "qu": {
-    "en": "Quechua", "endonym": "Runa simi; kichwa simi; Nuna shimi"
+    "en": "Quechua",
+    "qu": "Runa simi; kichwa simi; Nuna shimi"
   },
   "quf": {
     "en": "Quechua, Lambayeque"
@@ -16469,7 +16597,8 @@
     "en": "Romblomanon"
   },
   "ro": {
-    "en": "Romanian", "endonym": "Rumantsch; Rumàntsch; Romauntsch; Romontsch"
+    "en": "Romanian",
+    "ro": "Rumantsch; Rumàntsch; Romauntsch; Romontsch"
   },
   "roo": {
     "en": "Rotokas"
@@ -16559,7 +16688,8 @@
     "en": "Kuce"
   },
   "rn": {
-    "en": "Rundi", "endonym": "Ikirundi"
+    "en": "Rundi",
+    "rn": "Ikirundi"
   },
   "ruo": {
     "en": "Romanian, Istro"
@@ -16571,7 +16701,8 @@
     "en": "Romanian, Megleno"
   },
   "ru": {
-    "en": "Russian", "endonym": "Русский язык (Russkiĭ âzyk)"
+    "en": "Russian",
+    "ru": "Русский язык (Russkiĭ âzyk)"
   },
   "rut": {
     "en": "Rutul"
@@ -16640,7 +16771,8 @@
     "en": "Safaliba"
   },
   "sg": {
-    "en": "Sango", "endonym": "yângâ tî Sängö"
+    "en": "Sango",
+    "sg": "yângâ tî Sängö"
   },
   "sah": {
     "en": "Yakut"
@@ -16655,7 +16787,8 @@
     "en": "Samaritan Aramaic"
   },
   "sa": {
-    "en": "Sanskrit", "endonym": "संस्कृतम् (Saṃskṛtam)"
+    "en": "Sanskrit",
+    "sa": "संस्कृतम् (Saṃskṛtam)"
   },
   "sao": {
     "en": "Sause"
@@ -17132,7 +17265,8 @@
     "en": "Mende (Papua New Guinea)"
   },
   "si": {
-    "en": "Sinhala", "endonym": "සිංහල (Siṁhala)"
+    "en": "Sinhala",
+    "si": "සිංහල (Siṁhala)"
   },
   "sip": {
     "en": "Sikkimese"
@@ -17309,7 +17443,8 @@
     "en": "Salumá"
   },
   "sk": {
-    "en": "Slovak", "endonym": "Slovenčina"
+    "en": "Slovak",
+    "sk": "Slovenčina"
   },
   "sll": {
     "en": "Yui"
@@ -17336,7 +17471,8 @@
     "en": "Selaru"
   },
   "sl": {
-    "en": "Slovene", "endonym": "Slovenščina"
+    "en": "Slovene",
+    "sl": "Slovenščina"
   },
   "slw": {
     "en": "Sialum"
@@ -17360,7 +17496,8 @@
     "en": "Tayatuk"
   },
   "se": {
-    "en": "Saami, North", "endonym": "Davvisámegiella"
+    "en": "Saami, North",
+    "se": "Davvisámegiella"
   },
   "smf": {
     "en": "Auwe"
@@ -17387,7 +17524,8 @@
     "en": "Saami, Inari"
   },
   "sm": {
-    "en": "Samoan", "endonym": "gagana Sāmoa"
+    "en": "Samoan",
+    "sm": "gagana Sāmoa"
   },
   "smp": {
     "en": "Samaritan Hebrew"
@@ -17423,13 +17561,15 @@
     "en": "Simeku"
   },
   "sn": {
-    "en": "Shona", "endonym": "chiShona"
+    "en": "Shona",
+    "sn": "chiShona"
   },
   "snc": {
     "en": "Sinaugoro"
   },
   "sd": {
-    "en": "Sindhi", "endonym": "سنڌي; सिन्धी (Sindhī)"
+    "en": "Sindhi",
+    "sd": "سنڌي; सिन्धी (Sindhī)"
   },
   "sne": {
     "en": "Bidayuh, Bau"
@@ -17522,7 +17662,8 @@
     "en": "Solos"
   },
   "so": {
-    "en": "Somali", "endonym": "Soomaali; 𐒈𐒝𐒑𐒛𐒐𐒘; سٝومالِ"
+    "en": "Somali",
+    "so": "Soomaali; 𐒈𐒝𐒑𐒛𐒐𐒘; سٝومالِ"
   },
   "soo": {
     "en": "Songo (Democratic Republic of the Congo)"
@@ -17540,7 +17681,8 @@
     "en": "Seenku"
   },
   "st": {
-    "en": "Sotho, Southern", "endonym": "Sesotho"
+    "en": "Sotho, Southern",
+    "st": "Sesotho"
   },
   "sou": {
     "en": "Thai, Southern"
@@ -17561,7 +17703,8 @@
     "en": "Temi"
   },
   "es": {
-    "en": "Spanish", "endonym": "Español; Castellano"
+    "en": "Spanish",
+    "es": "Español; Castellano"
   },
   "spb": {
     "en": "Sepa (Indonesia)"
@@ -17627,7 +17770,8 @@
     "en": "Shau"
   },
   "sq": {
-    "en": "Albanian", "endonym": "Shqip"
+    "en": "Albanian",
+    "sq": "Shqip"
   },
   "sqk": {
     "en": "Albanian Sign Language"
@@ -17666,7 +17810,8 @@
     "en": "Sardinian, Logudorese"
   },
   "sc": {
-    "en": "Sardinian", "endonym": "Sardu"
+    "en": "Sardinian",
+    "sc": "Sardu"
   },
   "sre": {
     "en": "Bakati’, Sara"
@@ -17699,7 +17844,8 @@
     "en": "Sardinian, Campidanese"
   },
   "sr": {
-    "en": "Serbian", "endonym": "Српски (Srpski)"
+    "en": "Serbian",
+    "sr": "Српски (Srpski)"
   },
   "srq": {
     "en": "Sirionó"
@@ -17795,7 +17941,8 @@
     "en": "Ngen (Vanuatu)"
   },
   "ss": {
-    "en": "Swati", "endonym": "siSwati"
+    "en": "Swati",
+    "ss": "siSwati"
   },
   "ssx": {
     "en": "Samberigi"
@@ -17900,7 +18047,8 @@
     "en": "Sukuma"
   },
   "su": {
-    "en": "Sunda", "endonym": "basa Sunda; ᮘᮞ ᮞᮥᮔ᮪ᮓ; بَاسَا سُوْندَا"
+    "en": "Sunda",
+    "su": "basa Sunda; ᮘᮞ ᮞᮥᮔ᮪ᮓ; بَاسَا سُوْندَا"
   },
   "suo": {
     "en": "Bouni"
@@ -17951,7 +18099,8 @@
     "en": "Savosavo"
   },
   "sw": {
-    "en": "Swahili", "endonym": "Kiswahili; كِسوَحِيلِ"
+    "en": "Swahili",
+    "sw": "Kiswahili; كِسوَحِيلِ"
   },
   "swb": {
     "en": "Comorian, Maore"
@@ -17960,7 +18109,8 @@
     "en": "Swahili, Congo"
   },
   "sv": {
-    "en": "Swedish", "endonym": "Svenska"
+    "en": "Swedish",
+    "sv": "Svenska"
   },
   "swf": {
     "en": "Sere"
@@ -18149,7 +18299,8 @@
     "en": "Tagoi"
   },
   "ty": {
-    "en": "Tahitian", "endonym": "reo Tahiti"
+    "en": "Tahitian",
+    "ty": "reo Tahiti"
   },
   "taj": {
     "en": "Tamang, Eastern"
@@ -18161,7 +18312,8 @@
     "en": "Tal"
   },
   "ta": {
-    "en": "Tamil", "endonym": "தமிழ் (Tamiḻ)"
+    "en": "Tamil",
+    "ta": "தமிழ் (Tamiḻ)"
   },
   "tan": {
     "en": "Tangale"
@@ -18182,7 +18334,8 @@
     "en": "Tay Boi"
   },
   "tt": {
-    "en": "Tatar", "endonym": "Татар теле; Tatar tele; تاتار تئلئ‎"
+    "en": "Tatar",
+    "tt": "Татар теле; Tatar tele; تاتار تئلئ‎"
   },
   "tau": {
     "en": "Tanana, Upper"
@@ -18440,7 +18593,8 @@
     "en": "Teke, Ibali"
   },
   "te": {
-    "en": "Telugu", "endonym": "తెలుగు (Telugu)"
+    "en": "Telugu",
+    "te": "తెలుగు (Telugu)"
   },
   "tem": {
     "en": "Themne"
@@ -18527,10 +18681,12 @@
     "en": "Tagin"
   },
   "tg": {
-    "en": "Tajik", "endonym": "Тоҷикӣ (Tojikī)"
+    "en": "Tajik",
+    "tg": "Тоҷикӣ (Tojikī)"
   },
   "tl": {
-    "en": "Tagalog", "endonym": "Wikang Tagalog"
+    "en": "Tagalog",
+    "tl": "Wikang Tagalog"
   },
   "tgn": {
     "en": "Tandaganon"
@@ -18572,7 +18728,8 @@
     "en": "Tagalaka"
   },
   "th": {
-    "en": "Thai", "endonym": "ภาษาไทย (Phasa Thai)"
+    "en": "Thai",
+    "th": "ภาษาไทย (Phasa Thai)"
   },
   "thd": {
     "en": "Kuuk Thayorre"
@@ -18671,7 +18828,8 @@
     "en": "Tiéfo"
   },
   "ti": {
-    "en": "Tigrigna", "endonym": "ትግርኛ (Təgrəñña)"
+    "en": "Tigrigna",
+    "ti": "ትግርኛ (Təgrəñña)"
   },
   "tis": {
     "en": "Itneg, Masadiit"
@@ -19022,7 +19180,8 @@
     "en": "Tombulu"
   },
   "to": {
-    "en": "Tongan", "endonym": "lea faka-Tonga"
+    "en": "Tongan",
+    "to": "lea faka-Tonga"
   },
   "too": {
     "en": "Totonac, Xicotepec de Juárez"
@@ -19265,10 +19424,12 @@
     "en": "Turkish Sign Language"
   },
   "tn": {
-    "en": "Setswana", "endonym": "Setswana"
+    "en": "Setswana",
+    "tn": "Setswana"
   },
   "ts": {
-    "en": "Tsonga", "endonym": "Xitsonga"
+    "en": "Tsonga",
+    "ts": "Xitsonga"
   },
   "tsp": {
     "en": "Toussian, Northern"
@@ -19409,7 +19570,8 @@
     "en": "Tugutil"
   },
   "tk": {
-    "en": "Turkmen", "endonym": "Türkmençe; Түркменче; تۆرکمنچه"
+    "en": "Turkmen",
+    "tk": "Türkmençe; Түркменче; تۆرکمنچه"
   },
   "tul": {
     "en": "Tula"
@@ -19427,7 +19589,8 @@
     "en": "Tedaga"
   },
   "tr": {
-    "en": "Turkish", "endonym": "Türkçe"
+    "en": "Turkish",
+    "tr": "Türkçe"
   },
   "tus": {
     "en": "Tuscarora"
@@ -19781,7 +19944,8 @@
     "en": "Ukwa"
   },
   "uk": {
-    "en": "Ukrainian", "endonym": "Українська (Ukraїnska)"
+    "en": "Ukrainian",
+    "uk": "Українська (Ukraїnska)"
   },
   "uks": {
     "en": "Kaapor Sign Language"
@@ -19925,7 +20089,8 @@
     "en": "Urningangg"
   },
   "ur": {
-    "en": "Urdu", "endonym": "اُردُو (Urduw)"
+    "en": "Urdu",
+    "ur": "اُردُو (Urduw)"
   },
   "ure": {
     "en": "Uru"
@@ -20048,7 +20213,8 @@
     "en": "Deko-Dusanga"
   },
   "uz": {
-    "en": "Uzbek", "endonym": "Ózbekça; ўзбекча; ئوزبېچه"
+    "en": "Uzbek",
+    "uz": "Ózbekça; ўзбекча; ئوزبېچه"
   },
   "uzn": {
     "en": "Uzbek, Northern"
@@ -20126,7 +20292,8 @@
     "en": "Vemgo-Mabas"
   },
   "ve": {
-    "en": "Venda", "endonym": "Tshivenḓa"
+    "en": "Venda",
+    "ve": "Tshivenḓa"
   },
   "veo": {
     "en": "Ventureño"
@@ -20150,7 +20317,8 @@
     "en": "Vidunda"
   },
   "vi": {
-    "en": "Vietnamese", "endonym": "tiếng Việt"
+    "en": "Vietnamese",
+    "vi": "tiếng Việt"
   },
   "vif": {
     "en": "Vili"
@@ -20666,7 +20834,8 @@
     "en": "Wali (Sudan)"
   },
   "wa": {
-    "en": "Walloon", "endonym": "Walon"
+    "en": "Walloon",
+    "wa": "Walon"
   },
   "wlo": {
     "en": "Wolio"
@@ -20801,7 +20970,8 @@
     "en": "Longto"
   },
   "wo": {
-    "en": "Wolof", "endonym": "وࣷلࣷفْ"
+    "en": "Wolof",
+    "wo": "وࣷلࣷفْ"
   },
   "wom": {
     "en": "Wom (Nigeria)"
@@ -21176,7 +21346,8 @@
     "en": "Khetrani"
   },
   "xh": {
-    "en": "Xhosa", "endonym": "isiXhosa"
+    "en": "Xhosa",
+    "xh": "isiXhosa"
   },
   "xhv": {
     "en": "Khua"
@@ -21935,7 +22106,8 @@
     "en": "Yinggarda"
   },
   "yi": {
-    "en": "Yiddish", "endonym": "ייִדיש (Yidiš)"
+    "en": "Yiddish",
+    "yi": "ייִדיש (Yidiš)"
   },
   "yif": {
     "en": "Ache"
@@ -22175,7 +22347,8 @@
     "en": "Yongkom"
   },
   "yo": {
-    "en": "Yoruba", "endonym": "èdè Yorùbá"
+    "en": "Yoruba",
+    "yo": "èdè Yorùbá"
   },
   "yot": {
     "en": "Yotti"
@@ -22556,7 +22729,8 @@
     "en": "Magori"
   },
   "za": {
-    "en": "Zhuang, Chuang", "endonym": "話僮 (Vahcuengh)"
+    "en": "Zhuang, Chuang",
+    "za": "話僮 (Vahcuengh)"
   },
   "zhb": {
     "en": "Zhaba"
@@ -22571,7 +22745,8 @@
     "en": "Zhuang, Nong"
   },
   "zh": {
-    "en": "Chinese", "endonym": "中文 (Zhōngwén) 汉语; 漢語 (Hànyǔ)"
+    "en": "Chinese",
+    "zh": "中文 (Zhōngwén) 汉语; 漢語 (Hànyǔ)"
   },
   "zhs": {
     "en": "Simplified Chinese"
@@ -22913,7 +23088,8 @@
     "en": "Tokano"
   },
   "zu": {
-    "en": "Zulu", "endonym": "isiZulu"
+    "en": "Zulu",
+    "zu": "isiZulu"
   },
   "zum": {
     "en": "Kumzari"
