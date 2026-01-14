@@ -340,6 +340,9 @@ p:has(.marks_chapter_label) {
 .span_edit_verses:read-write:focus {
     outline: none;
 }
+.span_edit_graft:read-write:focus {
+     outline: none;
+ }
 /* wrappers CSS format : */
 /*
 .wrappers_default {
