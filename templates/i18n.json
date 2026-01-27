@@ -616,6 +616,17 @@
         "fr": "Impossible de suivre des liens vidéo en mode hors-ligne. Activez la connexion internet si ça ne vous met pas en danger.",
         "id": "Tautan video tidak dapat ditampilkan tanpa internet. Mengaktifkan internet hanya kalau aman digunakan."
       }
+    },
+    "bcv_images_viewer": {
+      "title": {
+        "en": "Images by Verse",
+        "fr": "Images par verset",
+        "es": "Imágenes por versículo"
+      },
+      "no_images_found": {
+        "en": "No images found for this verse",
+        "es": "No se encontraron imágenes para este versículo"
+      }
     }
   },
   "flavors": {
