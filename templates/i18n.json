@@ -757,9 +757,9 @@
         "en": "Lexicon",
         "fr": "Lexique"
       },
-      "x-peripheralArticles": {
-        "en": "Peripheral Articles",
-        "fr": "Articles Périphérique"
+      "peripheral/x-peripheralArticles": {
+        "en": "Articles by verse",
+        "fr": "Articles par verset"
       }
     }
   },
