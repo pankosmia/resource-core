@@ -464,6 +464,30 @@
       }
     }
   },
+  "library": {
+    "panksomia-rcl": {
+      "row_download": {
+        "en": "Download",
+        "fr": "Télécharger"
+      },
+      "row_type": {
+        "en": "Type",
+        "fr": "Type"
+      },
+      "row_description": {
+        "en": "Description",
+        "fr": "Description"
+      },
+      "row_language": {
+        "en": "Language",
+        "fr": "Langue"
+      },
+      "row_resource_code": {
+        "en": "Code",
+        "fr": "Code"
+      }
+    }
+  },
   "components": {
     "framework": {
       "no_entry_if_offline": {
@@ -728,6 +752,14 @@
         "en": "OBS Images",
         "fr": "Images OBS",
         "id": "Gambar-gambar CAT"
+      },
+      "peripheral/x-lexicon": {
+        "en": "Lexicon",
+        "fr": "Lexique"
+      },
+      "peripheral/x-peripheralArticles": {
+        "en": "Articles by verse",
+        "fr": "Articles par verset"
       }
     }
   },
