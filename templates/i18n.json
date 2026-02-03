@@ -546,15 +546,10 @@
         "es": "Aceptar",
         "id": "Terima"
       },
-      "experimental_mode": {
-        "en": "Experimental mode",
-        "fr": "Mode expérimental",
-        "es": "Modo experimental"
-      },
-      "advanced": {
-        "en": "Advanced",
-        "fr": "Avancé",
-        "es": "Avanzado"
+      "beta_mode": {
+        "en": "Beta",
+        "fr": "Bêta",
+        "es": "@Modo experimental"
       }
     },
     "require_resources": {
