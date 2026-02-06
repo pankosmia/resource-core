@@ -496,7 +496,7 @@
         "en":"Language name"
       },
       "lang_code_bcp47_list":{
-        "en":" From BCP47 List"
+        "en":" From standard list"
       },
       "lang_code_burrito":{
         "en":" From another document"
@@ -505,8 +505,8 @@
         "en":" Create custom language"
       },
       "description_bcp47_list":{
-        "en":"Choose a standard (BCP 47) language code from the list.",
-        "fr":"Choisissez un code standard (BCP 47) à partir de la liste."
+        "en":"Choose a standard language code from the list.",
+        "fr":"Choisissez un code standard  à partir de la liste."
       },
       "description_lang_code_burrito":{
         "en":"Copy language details from an existing document.",
