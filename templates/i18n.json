@@ -555,6 +555,12 @@
       "language":{
         "en":"Language",
         "fr":"Langue"
+      },
+      "create": {
+        "en": "Create",
+        "es": "Crear",
+        "fr": "Créer",
+        "id": "Buat"
       }
     }
   },
