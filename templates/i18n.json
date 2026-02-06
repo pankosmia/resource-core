@@ -486,6 +486,12 @@
         "en": "Code",
         "fr": "Code"
       },
+      "required_field": {
+        "en": "* Required fields",
+        "fr": "* Champs obligatoires",
+        "id": "* Data yg diperlukan",
+        "es": "* Campos requeridos"
+      },
       "add_versification_checkbox": {
         "en": "Add empty chapters and verses",
         "fr": "Ajouter des chapitres et des versets vides",
@@ -582,6 +588,20 @@
         "fr": "Lister uniquement les livres protestants",
         "id": "Cantum hanya buku Protestan",
         "es": "Listar únicamente los libros protestantes"
+      },
+      "back_button":{
+        "en":"Back",
+        "fr":"Retour"
+      },
+      "next_button":{
+        "en":"Next",
+        "fr":"Suivant"
+      },
+        "create": {
+        "en": "Create",
+        "es": "Crear",
+        "fr": "Créer",
+        "id": "Buat"
       }
     }
   },
