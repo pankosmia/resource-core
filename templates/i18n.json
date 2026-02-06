@@ -486,6 +486,12 @@
         "en": "Code",
         "fr": "Code"
       },
+      "required_field": {
+        "en": "* Required fields",
+        "fr": "* Champs obligatoires",
+        "id": "* Data yg diperlukan",
+        "es": "* Campos requeridos"
+      },
       "lang_code": {
       "en": "Language Code",
       "es": "Código del Idioma",
@@ -496,7 +502,7 @@
         "en":"Language name"
       },
       "lang_code_bcp47_list":{
-        "en":" From standard list"
+        "en":" From BCP47 List"
       },
       "lang_code_burrito":{
         "en":" From another document"
@@ -505,8 +511,8 @@
         "en":" Create custom language"
       },
       "description_bcp47_list":{
-        "en":"Choose a standard language code from the list.",
-        "fr":"Choisissez un code standard  à partir de la liste."
+        "en":"Choose a standard (BCP 47) language code from the list.",
+        "fr":"Choisissez un code standard (BCP 47) à partir de la liste."
       },
       "description_lang_code_burrito":{
         "en":"Copy language details from an existing document.",
@@ -531,10 +537,6 @@
       "helper_language_code":{
         "en":"\"x-\" followed by 3 lowercase letters",
         "fr":"\"x-\" suivi de 3 lettres minuscules (a-z)"
-      },    
-      "helper_versification":{
-        "en":"Defines the system of chapters and verses",
-        "fr":"Définit le système des chapitres et des versets"
       },
       "document":{
         "en":"Document",
@@ -547,35 +549,6 @@
       "language":{
         "en":"Language",
         "fr":"Langue"
-      },
-      "versification_scheme": {
-        "en": "Versification scheme",
-        "fr": "Schéma de versification",
-        "id": "Skema ayat",
-        "es": "Esquema de versificación"
-      },"book_code": {
-        "en": "Book",
-        "fr": "livre",
-        "es": "@Código del libro",
-        "id": "@Kode Buku"
-      },
-      "book_abbr": {
-        "en": "Book Abbreviation",
-        "fr": "Abréviation du livre",
-        "id": "Singkatan Buku",
-        "es": "Abreviación del libro"
-      },
-      "book_title": {
-        "en": "Book Title",
-        "fr": "Titre du livre",
-        "es": "Título del libro",
-        "id": "Judul Utama Buku"
-      },
-        "protestant_books_only": {
-        "en": "List protestant books only",
-        "fr": "Lister uniquement les livres protestants",
-        "id": "Cantum hanya buku Protestan",
-        "es": "Listar únicamente los libros protestantes"
       }
     }
   },
