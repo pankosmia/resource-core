@@ -486,6 +486,12 @@
         "en": "Code",
         "fr": "Code"
       },
+      "add_versification_checkbox": {
+        "en": "Add empty chapters and verses",
+        "fr": "Ajouter des chapitres et des versets vides",
+        "id": "Tambah fasal dan ayat kosong",
+        "es": "Agregar capítulos y versículos vacíos"
+      },
       "lang_code": {
       "en": "Language Code",
       "es": "Código del Idioma",
