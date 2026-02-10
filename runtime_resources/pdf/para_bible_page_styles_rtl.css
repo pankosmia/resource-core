@@ -99,6 +99,13 @@ h1, h2, h3, h4, .paras_usfm_iot {
 .paras_usfm_ib {
     min-height: 14pt;
 }
+.paras_usfm_iex {
+  display: inline-block;
+  border: 2px solid rgb(178, 178, 183);
+  border-radius: 5px;
+  padding: 10px;
+  color: rgb(93, 93, 96);
+}
 .paras_usfm_ili {
     display: list-item;
     list-style-type: disc;

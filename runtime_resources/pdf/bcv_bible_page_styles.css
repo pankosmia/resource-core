@@ -91,3 +91,10 @@ h1 {
     font-weight: bold;
     font-size: 10pt;
 }
+.iex {
+  display: inline-block;
+  border: 2px solid rgb(178, 178, 183);
+  border-radius: 5px;
+  padding: 10px;
+  color: rgb(93, 93, 96);
+}
