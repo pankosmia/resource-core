@@ -765,6 +765,14 @@
       }
     }
   },
+  "crunchers": {
+    "rhakos": {
+      "title": {
+        "en": "Rhakos RAG Chat",
+        "fr": "Rhakos : un client tchat RAG"
+      }
+    }
+  },
   "flavors": {
     "names": {
       "parascriptural/x-videolinks": {
