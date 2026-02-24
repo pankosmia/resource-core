@@ -602,6 +602,12 @@
         "es": "Crear",
         "fr": "Créer",
         "id": "Buat"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "fr": "Annuler",
+        "es": "Cancelar",
+        "id": "Batal"
       }
     }
   },
