@@ -568,7 +568,7 @@
       },"book_code": {
         "en": "Book",
         "fr": "livre",
-        "es": "@Código del libro",
+        "es": "Libro",
         "id": "@Kode Buku"
       },
       "book_abbr": {
@@ -602,6 +602,12 @@
         "es": "Crear",
         "fr": "Créer",
         "id": "Buat"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "fr": "Annuler",
+        "es": "Cancelar",
+        "id": "Batal"
       }
     }
   },
@@ -666,7 +672,7 @@
       "beta_mode": {
         "en": "Beta",
         "fr": "Bêta",
-        "es": "@Modo experimental"
+        "es": "Beta"
       }
     },
     "require_resources": {
