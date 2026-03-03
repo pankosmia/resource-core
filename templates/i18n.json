@@ -499,73 +499,74 @@
         "es": "Agregar capítulos y versículos vacíos"
       },
       "lang_code": {
-      "en": "Language Code",
-      "es": "Código del Idioma",
-      "fr": "Code Langue",
-      "id": "Kode Bahasa"
+        "en": "Language Code",
+        "es": "Código del Idioma",
+        "fr": "Code Langue",
+        "id": "Kode Bahasa"
       },
-      "lang_name":{
-        "en":"Language name"
+      "lang_name": {
+        "en": "Language name"
       },
-      "lang_code_bcp47_list":{
-        "en":" From standard list"
+      "lang_code_bcp47_list": {
+        "en": " From standard list"
       },
-      "lang_code_burrito":{
-        "en":" From another document"
+      "lang_code_burrito": {
+        "en": " From another document"
       },
-      "lang_code_custom_language":{
-        "en":" Create custom language"
+      "lang_code_custom_language": {
+        "en": " Create custom language"
       },
-      "description_bcp47_list":{
-        "en":"Choose a standard language code from the list.",
-        "fr":"Choisissez un code standard  à partir de la liste."
+      "description_bcp47_list": {
+        "en": "Choose a standard language code from the list.",
+        "fr": "Choisissez un code standard  à partir de la liste."
       },
-      "description_lang_code_burrito":{
-        "en":"Copy language details from an existing document.",
-        "fr":"Copiez les informations linguistiques d'un autre document."
+      "description_lang_code_burrito": {
+        "en": "Copy language details from an existing document.",
+        "fr": "Copiez les informations linguistiques d'un autre document."
       },
-      "description_custom_language":{
-        "en":"Supply your own custom language name and code.",
-        "fr":"Fournissez votre propre nom et code de langue. "
+      "description_custom_language": {
+        "en": "Supply your own custom language name and code.",
+        "fr": "Fournissez votre propre nom et code de langue. "
       },
-      "local_project":{
+      "local_project": {
         "en": "Local projects",
-        "fr":"Les projets locaux"
+        "fr": "Les projets locaux"
       },
-      "burrito_resources":{
+      "burrito_resources": {
         "en": "Resources",
-        "fr":"Ressources"
+        "fr": "Ressources"
       },
-      "choose_language":{
-        "en":"Choose language",
-        "fr":"Choisir langue"
+      "choose_language": {
+        "en": "Choose language",
+        "fr": "Choisir langue"
       },
-      "helper_language_code":{
-        "en":"\"x-\" followed by 3 lowercase letters",
-        "fr":"\"x-\" suivi de 3 lettres minuscules (a-z)"
-      },    
-      "helper_versification":{
-        "en":"Defines the system of chapters and verses",
-        "fr":"Définit le système des chapitres et des versets"
+      "helper_language_code": {
+        "en": "\"x-\" followed by 3 lowercase letters",
+        "fr": "\"x-\" suivi de 3 lettres minuscules (a-z)"
       },
-      "document":{
-        "en":"Document",
-        "fr":"Document"
+      "helper_versification": {
+        "en": "Defines the system of chapters and verses",
+        "fr": "Définit le système des chapitres et des versets"
       },
-      "title_section_burrito":{
-        "en":"Copy from",
-        "fr":"Copier depuis"
+      "document": {
+        "en": "Document",
+        "fr": "Document"
       },
-      "language":{
-        "en":"Language",
-        "fr":"Langue"
+      "title_section_burrito": {
+        "en": "Copy from",
+        "fr": "Copier depuis"
+      },
+      "language": {
+        "en": "Language",
+        "fr": "Langue"
       },
       "versification_scheme": {
         "en": "Versification scheme",
         "fr": "Schéma de versification",
         "id": "Skema ayat",
         "es": "Esquema de versificación"
-      },"book_code": {
+      },
+      "book_code": {
         "en": "Book",
         "fr": "livre",
         "es": "Libro",
@@ -583,26 +584,36 @@
         "es": "Título del libro",
         "id": "Judul Utama Buku"
       },
-        "protestant_books_only": {
+      "protestant_books_only": {
         "en": "List protestant books only",
         "fr": "Lister uniquement les livres protestants",
         "id": "Cantum hanya buku Protestan",
         "es": "Listar únicamente los libros protestantes"
       },
-      "back_button":{
-        "en":"Back",
-        "fr":"Retour"
+      "back_button": {
+        "en": "Back",
+        "fr": "Retour"
       },
-      "next_button":{
-        "en":"Next",
-        "fr":"Suivant"
+      "next_button": {
+        "en": "Next",
+        "fr": "Suivant"
       },
-        "create": {
+      "create": {
         "en": "Create",
         "es": "Crear",
         "fr": "Créer",
         "id": "Buat"
+      },
+      "legacy": {
+        "en": "Legacy"
+      },
+      "native": {
+        "en": "Native"
+      },
+      "origin":{
+        "en" :"Origin"
       }
+
     }
   },
   "components": {
