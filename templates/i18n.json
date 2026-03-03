@@ -612,8 +612,13 @@
       },
       "origin":{
         "en" :"Origin"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "fr": "Annuler",
+        "es": "Cancelar",
+        "id": "Batal"
       }
-
     }
   },
   "components": {
@@ -773,6 +778,14 @@
       "no_images_found": {
         "en": "No images found for this verse",
         "es": "No se encontraron imágenes para este versículo"
+      }
+    }
+  },
+  "crunchers": {
+    "rhakos": {
+      "title": {
+        "en": "Rhakos RAG Chat",
+        "fr": "Rhakos : un client tchat RAG"
       }
     }
   },
