@@ -46,7 +46,7 @@
     "flavorType": {
       "name": "parascriptural",
       "flavor": {
-        "name": "x-bcvnotes"
+        "name": "x-translationplan"
       },
       "currentScope": {%%SCOPE%%}
     }
