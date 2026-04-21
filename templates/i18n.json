@@ -618,6 +618,12 @@
         "fr": "Annuler",
         "es": "Cancelar",
         "id": "Batal"
+      },
+      "close": {
+        "en": "Close",
+        "es": "Cerrar",
+        "fr": "Fermer",
+        "id": "Tutup"
       }
     }
   },
