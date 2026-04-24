@@ -626,8 +626,8 @@
         "id": "Tutup"
       },
       "catalog_empty": {
-        "en": "No resources found in this repo.",
-        "es": "No se encontraron recursos en este repositorio."
+        "en": "No resources found.",
+        "es": "No se encontraron recursos."
       }
     }
   },
