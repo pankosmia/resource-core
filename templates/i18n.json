@@ -465,7 +465,7 @@
     }
   },
   "library": {
-    "panksomia-rcl": {
+    "pankosmia-rcl": {
       "row_download": {
         "en": "Download",
         "fr": "Télécharger"
@@ -624,6 +624,10 @@
         "es": "Cerrar",
         "fr": "Fermer",
         "id": "Tutup"
+      },
+      "catalog_empty": {
+        "en": "No resources found in this repo.",
+        "es": "No se encontraron recursos en este repositorio."
       }
     }
   },
