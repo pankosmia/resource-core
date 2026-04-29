@@ -261,6 +261,10 @@
           "value": 0
         },
         {
+          "key": "hihm",
+          "value": 0
+        },
+        {
           "key": "wdsp",
           "value": 2
         },
@@ -300,6 +304,10 @@
         },
         {
           "key": "hamz",
+          "value": 0
+        },
+        {
+          "key": "hihm",
           "value": 0
         },
         {
@@ -345,6 +353,10 @@
           "value": 0
         },
         {
+          "key": "hihm",
+          "value": 0
+        },
+        {
           "key": "wdsp",
           "value": 2
         },
@@ -384,6 +396,10 @@
         },
         {
           "key": "hamz",
+          "value": 0
+        },
+        {
+          "key": "hihm",
           "value": 0
         },
         {
@@ -945,72 +961,6 @@
           "value": 0
         }
       ],
-      "Padauk_Book": [
-        {
-          "key": "cv01",
-          "value": 0
-        },
-        {
-          "key": "cv02",
-          "value": 0
-        },
-        {
-          "key": "cv03",
-          "value": 0
-        },
-        {
-          "key": "cv04",
-          "value": 0
-        },
-        {
-          "key": "cv05",
-          "value": 0
-        },
-        {
-          "key": "cv06",
-          "value": 0
-        },
-        {
-          "key": "cv07",
-          "value": 0
-        },
-        {
-          "key": "cv09",
-          "value": 0
-        },
-        {
-          "key": "cv10",
-          "value": 0
-        },
-        {
-          "key": "lldt",
-          "value": 0
-        },
-        {
-          "key": "ulon",
-          "value": 0
-        },
-        {
-          "key": "utal",
-          "value": 0
-        },
-        {
-          "key": "dotc",
-          "value": 1
-        },
-        {
-          "key": "nnya",
-          "value": 0
-        },
-        {
-          "key": "vtta",
-          "value": 0
-        },
-        {
-          "key": "dotr",
-          "value": 0
-        }
-      ],
       "Padauk": [
         {
           "key": "cv01",
@@ -1049,31 +999,133 @@
           "value": 0
         },
         {
-          "key": "lldt",
+          "key": "cv11",
+          "value": 0
+        }
+      ],
+        "Padauk_Medium": [
+        {
+          "key": "cv01",
           "value": 0
         },
         {
-          "key": "ulon",
+          "key": "cv02",
           "value": 0
         },
         {
-          "key": "utal",
+          "key": "cv03",
           "value": 0
         },
         {
-          "key": "dotc",
-          "value": 1
-        },
-        {
-          "key": "nnya",
+          "key": "cv04",
           "value": 0
         },
         {
-          "key": "vtta",
+          "key": "cv05",
           "value": 0
         },
         {
-          "key": "dotr",
+          "key": "cv06",
+          "value": 0
+        },
+        {
+          "key": "cv07",
+          "value": 0
+        },
+        {
+          "key": "cv09",
+          "value": 0
+        },
+        {
+          "key": "cv10",
+          "value": 0
+        },
+        {
+          "key": "cv11",
+          "value": 0
+        }
+      ],
+        "Padauk_Semi_Bold": [
+        {
+          "key": "cv01",
+          "value": 0
+        },
+        {
+          "key": "cv02",
+          "value": 0
+        },
+        {
+          "key": "cv03",
+          "value": 0
+        },
+        {
+          "key": "cv04",
+          "value": 0
+        },
+        {
+          "key": "cv05",
+          "value": 0
+        },
+        {
+          "key": "cv06",
+          "value": 0
+        },
+        {
+          "key": "cv07",
+          "value": 0
+        },
+        {
+          "key": "cv09",
+          "value": 0
+        },
+        {
+          "key": "cv10",
+          "value": 0
+        },
+        {
+          "key": "cv11",
+          "value": 0
+        }
+      ],
+        "Padauk_Extra_Bold": [
+        {
+          "key": "cv01",
+          "value": 0
+        },
+        {
+          "key": "cv02",
+          "value": 0
+        },
+        {
+          "key": "cv03",
+          "value": 0
+        },
+        {
+          "key": "cv04",
+          "value": 0
+        },
+        {
+          "key": "cv05",
+          "value": 0
+        },
+        {
+          "key": "cv06",
+          "value": 0
+        },
+        {
+          "key": "cv07",
+          "value": 0
+        },
+        {
+          "key": "cv09",
+          "value": 0
+        },
+        {
+          "key": "cv10",
+          "value": 0
+        },
+        {
+          "key": "cv11",
           "value": 0
         }
       ]
