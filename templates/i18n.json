@@ -815,8 +815,9 @@
         "fr": "Template de traduction"
       },
       "parascriptural/x-tcore": {
-        "en": "tCore checks",
-        "fr": "Vérifications tCore"
+        "en": "tCore 4 checks",
+        "fr": "Vérifications tCore 4",
+        "es": "Comprobaciones de tCore 4"
       },
       "parascriptural/x-bcvarticles": {
         "en": "Articles by Verse",
