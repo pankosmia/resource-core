@@ -1,0 +1,39 @@
+{
+  "name": %%CONTENTNAME%%,
+  "description": "A New Translation Plan with chapters as translation sections and vers.",
+  "copyright": "© MVH Solutions 2026",
+  "short_name": %%CONTENTNAME%%,
+  "versification": "eng",
+  "version": "0.2.0",
+  "fieldInitialValues": {},
+  "sectionStructure": [
+    {
+      "type": "scripture"
+    }
+  ],
+  "sections": [
+    {
+      "bookCode": "MAT",
+      "cv": ["1:1", "1:25"],
+      "fieldInitialValues": {},
+      "paragraphs": [
+        {
+          "paraTag": "p",
+          "units": ["1:1-11"]
+        },
+        {
+          "paraTag": "p",
+          "units": ["1:12-16"]
+        },
+        {
+          "paraTag": "p",
+          "units": ["1:17"]
+        },
+        {
+          "paraTag": "p",
+          "units": ["1:18"]
+        }
+      ]
+    }
+  ]
+}
