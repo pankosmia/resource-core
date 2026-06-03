@@ -48,7 +48,7 @@
       "flavor": {
         "name": "audioTranslation"
       },
-      "currentScope": {%%SCOPE%%}
+      "currentScope": {}
     }
   },
   "confidential": false,
