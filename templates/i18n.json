@@ -560,6 +560,14 @@
         "en": "Language",
         "fr": "Langue"
       },
+      "choose_versification":{
+        "en":"Choose versification",
+        "fr":"Choix de la versification"
+      },
+      "text_versification":{
+        "en":"The way a Bible is divided into books, chapters and verses is not exactly the same in every culture and historical period. For example, the text of the book of Malachi does not have the same number of chapters depending on the country and the church tradition in which you find yourself. This is often the case for the Old Testament, especially in the book of Psalms. These different ways to divide up a text do not affect the text itself, which is unchanged. Before starting a Bible project, it is therefore important to pick the correct divisions (or 'versification'), to make your work easier. You can change this choice later.",
+        "fr":"La division de la Bible en livres, chapitres et versets n'est pas exactement la même dans toutes les cultures du monde, ni à toutes les époques. Par exemple, le texte du livre de Malachie n'a pas le même nombre de chapitres selon le pays et la tradition ecclésiale dans laquelle vous vous trouvez ; c'est souvent le cas dans l'Ancien Testament, notamment dans le livre des Psaumes. Ces divisions, même si elles diffèrent entre elles, n'affectent pas le texte lui-même, qui reste le même. Avant d'entamer un projet biblique, il est donc important de bien choisir le système de division qui vous convient, pour faciliter le travail. Vous pourrez revenir sur cette décision plus tard."
+      },
       "versification_scheme": {
         "en": "Versification scheme",
         "fr": "Schéma de versification",
