@@ -676,7 +676,7 @@
         "fr": "En ligne"
       },
       "tooltip_offline_mode": {
-        "en": "{1} is offline by default. You should know that when the app is turned online, nothing is sent to internet in the background at your expense.You specifically need to do an internet-related action for data to travel.You are in control.This offline/onlinesetting is specific to the app,and independent from your computer's network configuration. Both need to be active for data to travel.",
+        "en": "{1} is offline by default. You should know that when the app is turned online, nothing is sent to internet in the background at your expense.You specifically need to do an internet-related action for data to travel.You are in control.This offline/online setting is specific to the app, and independent from your computer's network configuration. Both need to be active for data to travel.",
         "fr": "{1} est hors ligne par défaut. Vous devez savoir que lorsque l'application est mise en ligne, aucune donnée n'est envoyée sur internet en arrière-plan à vos dépens. Vous devez spécifiquement faire une action liée à internet pour que des données soient transmises. Vous avez le contrôle. Ce paramètre hors ligne/en ligne est propre à l'application, et indépendant de la configuration réseau de votre ordinateur. Les deux doivent être actifs pour que des données soient transmises."
       },
       "disconnected": {
