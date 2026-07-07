@@ -946,13 +946,13 @@
         "en": "Print project",
         "fr": "Projet d'impression"
       }
-    },
-    "fonts": {},
-    "branding": {
-      "software": {
-        "name": {
-          "en": "A Pankosmia App"
-        }
+    }
+  },
+  "fonts": {},
+  "branding": {
+    "software": {
+      "name": {
+        "en": "A Pankosmia App"
       }
     }
   }
