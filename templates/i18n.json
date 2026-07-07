@@ -953,7 +953,7 @@
       "peripheral/x-peripheralArticles": {
         "en": "Peripheral articles",
         "fr": "Articles périphérique"
-      }
+      },
       "peripheral/x-printspec":{
         "en" : "Print project",
         "fr" : "Projet d'impression"
