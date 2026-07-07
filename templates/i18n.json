@@ -470,21 +470,33 @@
         "en": "Download",
         "fr": "Télécharger"
       },
-      "row_type": {
-        "en": "Type",
-        "fr": "Type"
-      },
-      "row_description": {
-        "en": "Description",
-        "fr": "Description"
-      },
-      "row_language": {
-        "en": "Language",
-        "fr": "Langue"
-      },
       "row_resource_code": {
         "en": "Code",
         "fr": "Code"
+      },
+      "row_description": {
+        "en": "Description",
+        "fr": "Description",
+        "es": "Descripción",
+        "id": "Deskripsi"
+      },
+      "row_source": {
+        "en": "Source",
+        "fr": "Source",
+        "es": "Fuente",
+        "id": "Sumber"
+      },
+      "row_type": {
+        "en": "Type",
+        "fr": "Type",
+        "es": "Tipo",
+        "id": "Jenis"
+      },
+      "row_language": {
+        "en": "Language",
+        "fr": "Langue",
+        "es": "Idioma",
+        "id": "Bahasa"
       },
       "required_field": {
         "en": "* Required fields",
@@ -560,13 +572,13 @@
         "en": "Language",
         "fr": "Langue"
       },
-      "choose_versification":{
-        "en":"Choose versification",
-        "fr":"Choix de la versification"
+      "choose_versification": {
+        "en": "Choose versification",
+        "fr": "Choix de la versification"
       },
-      "text_versification":{
-        "en":"The way a Bible is divided into books, chapters and verses is not exactly the same in every culture and historical period. For example, the text of the book of Malachi does not have the same number of chapters depending on the country and the church tradition in which you find yourself. This is often the case for the Old Testament, especially in the book of Psalms. These different ways to divide up a text do not affect the text itself, which is unchanged. Before starting a Bible project, it is therefore important to pick the correct divisions (or 'versification'), to make your work easier. You can change this choice later.",
-        "fr":"La division de la Bible en livres, chapitres et versets n'est pas exactement la même dans toutes les cultures du monde, ni à toutes les époques. Par exemple, le texte du livre de Malachie n'a pas le même nombre de chapitres selon le pays et la tradition ecclésiale dans laquelle vous vous trouvez ; c'est souvent le cas dans l'Ancien Testament, notamment dans le livre des Psaumes. Ces divisions, même si elles diffèrent entre elles, n'affectent pas le texte lui-même, qui reste le même. Avant d'entamer un projet biblique, il est donc important de bien choisir le système de division qui vous convient, pour faciliter le travail. Vous pourrez revenir sur cette décision plus tard."
+      "text_versification": {
+        "en": "The way a Bible is divided into books, chapters and verses is not exactly the same in every culture and historical period. For example, the text of the book of Malachi does not have the same number of chapters depending on the country and the church tradition in which you find yourself. This is often the case for the Old Testament, especially in the book of Psalms. These different ways to divide up a text do not affect the text itself, which is unchanged. Before starting a Bible project, it is therefore important to pick the correct divisions (or 'versification'), to make your work easier. You can change this choice later.",
+        "fr": "La division de la Bible en livres, chapitres et versets n'est pas exactement la même dans toutes les cultures du monde, ni à toutes les époques. Par exemple, le texte du livre de Malachie n'a pas le même nombre de chapitres selon le pays et la tradition ecclésiale dans laquelle vous vous trouvez ; c'est souvent le cas dans l'Ancien Testament, notamment dans le livre des Psaumes. Ces divisions, même si elles diffèrent entre elles, n'affectent pas le texte lui-même, qui reste le même. Avant d'entamer un projet biblique, il est donc important de bien choisir le système de division qui vous convient, pour faciliter le travail. Vous pourrez revenir sur cette décision plus tard."
       },
       "versification_scheme": {
         "en": "Versification scheme",
@@ -618,8 +630,8 @@
       "native": {
         "en": "Native"
       },
-      "origin":{
-        "en" :"Origin"
+      "origin": {
+        "en": "Origin"
       },
       "cancel": {
         "en": "Cancel",
@@ -637,35 +649,11 @@
         "en": "No resources found.",
         "es": "No se encontraron recursos."
       },
-          "row_name": {
-      "en": "Name",
-      "fr": "Nom",
-      "es": "Nombre",
-      "id": "Nama"
-    },
-    "row_description": {
-      "en": "Description",
-      "fr": "Description",
-      "es": "Descripción",
-      "id": "Deskripsi"
-    },
-    "row_source": {
-      "en": "Source",
-      "fr": "Source",
-      "es": "Fuente",
-      "id": "Sumber"
-    },
-    "row_type": {
-      "en": "Type",
-      "fr": "Type",
-      "es": "Tipo",
-      "id": "Jenis"
-    },
-    "row_language": {
-      "en": "Language",
-      "fr": "Langue",
-      "es": "Idioma",
-      "id": "Bahasa"
+      "row_name": {
+        "en": "Name",
+        "fr": "Nom",
+        "es": "Nombre",
+        "id": "Nama"
       }
     }
   },
@@ -954,16 +942,17 @@
         "en": "Peripheral articles",
         "fr": "Articles périphérique"
       },
-      "peripheral/x-printspec":{
-        "en" : "Print project",
-        "fr" : "Projet d'impression"
-    }
-  },
-  "fonts": {},
-  "branding": {
-    "software": {
-      "name": {
-        "en": "A Pankosmia App"
+      "peripheral/x-printspec": {
+        "en": "Print project",
+        "fr": "Projet d'impression"
+      }
+    },
+    "fonts": {},
+    "branding": {
+      "software": {
+        "name": {
+          "en": "A Pankosmia App"
+        }
       }
     }
   }
