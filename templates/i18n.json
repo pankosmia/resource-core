@@ -636,6 +636,36 @@
       "catalog_empty": {
         "en": "No resources found.",
         "es": "No se encontraron recursos."
+      },
+          "row_name": {
+      "en": "Name",
+      "fr": "Nom",
+      "es": "Nombre",
+      "id": "Nama"
+    },
+    "row_description": {
+      "en": "Description",
+      "fr": "Description",
+      "es": "Descripción",
+      "id": "Deskripsi"
+    },
+    "row_source": {
+      "en": "Source",
+      "fr": "Source",
+      "es": "Fuente",
+      "id": "Sumber"
+    },
+    "row_type": {
+      "en": "Type",
+      "fr": "Type",
+      "es": "Tipo",
+      "id": "Jenis"
+    },
+    "row_language": {
+      "en": "Language",
+      "fr": "Langue",
+      "es": "Idioma",
+      "id": "Bahasa"
       }
     }
   },
@@ -924,6 +954,9 @@
         "en": "Peripheral articles",
         "fr": "Articles périphérique"
       }
+      "peripheral/x-printspec":{
+        "en" : "Print project",
+        "fr" : "Projet d'impression"
     }
   },
   "fonts": {},
