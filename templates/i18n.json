@@ -654,6 +654,16 @@
         "fr": "Nom",
         "es": "Nombre",
         "id": "Nama"
+      },
+      "show_more": {
+        "en": "Show more",
+        "fr": "Afficher plus",
+        "es": "Mostrar más"
+      },
+      "show_less": {
+        "en": "Show less",
+        "fr": "Afficher moins",
+        "es": "Mostrar menos"
       }
     }
   },
