@@ -1,10 +1,10 @@
 {
-  "name": %%CONTENTNAME%%,
-  "description": %%CONTENTDESCRIPTION%%,
-  "copyright": %%COPYRIGHT%%,
-  "short_name": %%CONTENTABBR%%,
-  "versification":  %%CONTENTVERSIFICATION%%,
-  "version":  %%VERSION%%,
+  "name": "%%CONTENTNAME%%",
+  "description": "%%CONTENTDESCRIPTION%%",
+  "copyright": "%%COPYRIGHT%%",
+  "short_name": "%%CONTENTABBR%%",
+  "versification": "%%CONTENTVERSIFICATION%%",
+  "version":  "%%VERSION%%",
   "fieldInitialValues": {},
   "sectionStructure": [
     {
