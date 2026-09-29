@@ -61,7 +61,7 @@
   "copyright": {
     "shortStatements": [
     {
-      "statement": "Copyright ©"
+      "statement": "%%COPYRIGHT%%"
     }
 ]
   }
