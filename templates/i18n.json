@@ -672,7 +672,32 @@
         "en": "Show less",
         "fr": "Afficher moins",
         "es": "Mostrar menos"
+      },
+      "unspecified":{
+        "en":"Unspecified",
+        "fr":"Non spécifié"
+      },
+      "all_rights_reserved":{
+        "en":"All rights reserved",
+        "fr":"Tous les droits réservés"
+      },
+      "public_domain":{
+        "en":"Public domain",
+        "fr":"Domaine Public"
+      },
+      "author_name":{
+        "en":"Author or organisation name",
+        "fr":"Nom"
+      },
+      "year":{
+        "en":"Year",
+        "fr":"Année"
+      },
+      "copyright":{
+        "en":"Copyright",
+        "fr":"Droits d'auteur"
       }
+
     }
   },
   "components": {
