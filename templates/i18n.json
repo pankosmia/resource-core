@@ -466,14 +466,10 @@
   },
   "library": {
     "pankosmia-rcl": {
-      "unsupported":{
-        "en":"Unsupported",
-        "fr":"Incompatible"
+      "unknown":{
+        "en":"Unknown",
+        "fr":"Unknown"
       },
-      "unsupported_type":{
-        "en":"Unsupported resource type",
-        "fr":"Type de ressource incompatible"
-      }
       "row_download": {
         "en": "Download",
         "fr": "Télécharger"
