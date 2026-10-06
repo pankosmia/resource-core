@@ -466,6 +466,10 @@
   },
   "library": {
     "pankosmia-rcl": {
+      "unknown":{
+        "en":"Unknown",
+        "fr":"Inconnu"
+      },
       "row_download": {
         "en": "Download",
         "fr": "Télécharger"
