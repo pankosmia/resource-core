@@ -466,9 +466,17 @@
   },
   "library": {
     "pankosmia-rcl": {
-      "unknown":{
-        "en":"Unknown",
-        "fr":"Inconnu"
+      "need_firefox": {
+        "en": "You need to download a render engine to print PDFs. Manage system plugins at any time from the app settings.",
+        "fr": "Vous devez télécharger un moteur de rendu pour imprimer des PDFs. Gérez les plugins système à tout moment depuis les paramètres de l'app."
+      },
+      "Firefox_not_installed": {
+        "en": "System plugin required",
+        "fr": "Plugin système nécessaire"
+      },
+      "unknown": {
+        "en": "Unknown",
+        "fr": "Inconnu"
       },
       "row_download": {
         "en": "Download",
@@ -677,31 +685,30 @@
         "fr": "Afficher moins",
         "es": "Mostrar menos"
       },
-      "unspecified":{
-        "en":"Unspecified",
-        "fr":"Non spécifié"
+      "unspecified": {
+        "en": "Unspecified",
+        "fr": "Non spécifié"
       },
-      "all_rights_reserved":{
-        "en":"All rights reserved",
-        "fr":"Tous droits réservés"
+      "all_rights_reserved": {
+        "en": "All rights reserved",
+        "fr": "Tous droits réservés"
       },
-      "public_domain":{
-        "en":"Public domain",
-        "fr":"Domaine Public"
+      "public_domain": {
+        "en": "Public domain",
+        "fr": "Domaine Public"
       },
-      "author_name":{
-        "en":"Author or organisation name",
-        "fr":"Nom"
+      "author_name": {
+        "en": "Author or organisation name",
+        "fr": "Nom"
       },
-      "year":{
-        "en":"Year",
-        "fr":"Année"
+      "year": {
+        "en": "Year",
+        "fr": "Année"
       },
-      "copyright":{
-        "en":"Copyright",
-        "fr":"Droits d'auteur"
+      "copyright": {
+        "en": "Copyright",
+        "fr": "Droits d'auteur"
       }
-
     }
   },
   "components": {
