@@ -466,9 +466,66 @@
   },
   "library": {
     "pankosmia-rcl": {
-      "unknown":{
-        "en":"Unknown",
-        "fr":"Inconnu"
+      "need_ffmpeg": {
+        "en": "You need to download ffmpef to use this audio feature"
+      },
+      "need_pdf_engine": {
+        "en": "You need to download a render engine to print PDFs"
+      },
+      "manage_in_setting": {
+        "en": "Manafe system plugins at any time from the app settings "
+      },
+      "tooltip_offline_mode": {
+        "en": "Switch the app online to use this feature",
+        "fr": "Passez l'application en ligne pour utiliser cette fonctionnalité"
+      },
+      "download_unavailable_tip": {
+        "en": "Unavailable in web browser",
+        "fr": "Indisponible dans le navigateur web"
+      },
+      "download_unavailable": {
+        "en": "Unavailable",
+        "fr": "Indisponible"
+      },
+      "download_checking": {
+        "en": "Checking…",
+        "fr": "Vérification…"
+      },
+      "download": {
+        "en": "Download",
+        "fr": "Télécharger"
+      },
+      "download_installed": {
+        "en": "Installed",
+        "fr": "Installé"
+      },
+      "download_retry": {
+        "en": "Retry Download",
+        "fr": "Réessayer le téléchargement"
+      },
+      "download_percent_complete": {
+        "en": "complete",
+        "fr": "terminé"
+      },
+      "download_downloading": {
+        "en": "Downloading…",
+        "fr": "Téléchargement…"
+      },
+      "download_failed": {
+        "en": "Download failed",
+        "fr": "Échec du téléchargement"
+      },
+      "need_firefox": {
+        "en": "You need to download a render engine to print PDFs. Manage system plugins at any time from the app settings.",
+        "fr": "Vous devez télécharger un moteur de rendu pour imprimer des PDFs. Gérez les plugins système à tout moment depuis les paramètres de l'app."
+      },
+      "Firefox_not_installed": {
+        "en": "System plugin required",
+        "fr": "Plugin système nécessaire"
+      },
+      "unknown": {
+        "en": "Unknown",
+        "fr": "Inconnu"
       },
       "row_download": {
         "en": "Download",
@@ -677,31 +734,30 @@
         "fr": "Afficher moins",
         "es": "Mostrar menos"
       },
-      "unspecified":{
-        "en":"Unspecified",
-        "fr":"Non spécifié"
+      "unspecified": {
+        "en": "Unspecified",
+        "fr": "Non spécifié"
       },
-      "all_rights_reserved":{
-        "en":"All rights reserved",
-        "fr":"Tous droits réservés"
+      "all_rights_reserved": {
+        "en": "All rights reserved",
+        "fr": "Tous droits réservés"
       },
-      "public_domain":{
-        "en":"Public domain",
-        "fr":"Domaine Public"
+      "public_domain": {
+        "en": "Public domain",
+        "fr": "Domaine Public"
       },
-      "author_name":{
-        "en":"Author or organisation name",
-        "fr":"Nom"
+      "author_name": {
+        "en": "Author or organisation name",
+        "fr": "Nom"
       },
-      "year":{
-        "en":"Year",
-        "fr":"Année"
+      "year": {
+        "en": "Year",
+        "fr": "Année"
       },
-      "copyright":{
-        "en":"Copyright",
-        "fr":"Droits d'auteur"
+      "copyright": {
+        "en": "Copyright",
+        "fr": "Droits d'auteur"
       }
-
     }
   },
   "components": {
