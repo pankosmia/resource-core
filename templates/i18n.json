@@ -827,9 +827,17 @@
         "id": "Terima"
       },
       "beta_mode": {
-        "en": "Beta",
-        "fr": "Bêta",
-        "es": "Beta"
+        "en": "Beta β",
+        "fr": "Bêta β",
+        "es": "Beta β"
+      },
+      "debug_mode": {
+        "en": "Debug",
+        "fr": "Débug"
+      },
+      "debug_mode_active": {
+        "en": "Debug enabled",
+        "fr": "Débug activé"
       }
     },
     "require_resources": {
