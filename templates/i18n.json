@@ -757,6 +757,30 @@
       "copyright": {
         "en": "Copyright",
         "fr": "Droits d'auteur"
+      },
+      "my_project": {
+        "en": "My Project",
+        "fr": "Mon Projet"
+      },
+      "pdf_publisher": {
+        "en": "PDF Publisher",
+        "fr": "Éditeur PDF"
+      },
+      "content_manager":{
+        "en": "Content Manager",
+        "fr": "Gestionnaire de contenu"
+      },
+      "setting":{
+        "en":"Settings",
+        "fr":"Paramètres"
+      },
+      "online_mode": {
+        "en": "Online mode",
+        "fr": "Mode en ligne"
+      },
+      "add_workspace":{
+        "en": "Add to Workspace",
+        "fr": "Ajouter à l'espace de travail"
       }
     }
   },
