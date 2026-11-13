@@ -759,15 +759,15 @@
         "fr": "Droits d'auteur"
       },
       "my_project": {
-        "en": "My Project",
-        "fr": "Mon Projet"
+        "en": "My Projects",
+        "fr": "Mes Projets"
       },
       "pdf_publisher": {
-        "en": "PDF Publisher",
+        "en": "PDF publisher",
         "fr": "Éditeur PDF"
       },
       "content_manager":{
-        "en": "Content Manager",
+        "en": "Content manager",
         "fr": "Gestionnaire de contenu"
       },
       "setting":{
