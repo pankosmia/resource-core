@@ -53,7 +53,7 @@
   },
   "confidential": false,
   "localizedNames": {},
-  "ingredients": {},
+  "ingredients": %%INGREDIENTS%%,
   "copyright": {
     "shortStatements": [
       {
