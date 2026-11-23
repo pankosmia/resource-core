@@ -467,13 +467,10 @@
   "library": {
     "pankosmia-rcl": {
       "need_ffmpeg": {
-        "en": "You need to download ffmpef to use this audio feature"
+        "en": "This feature needs a system plugin (FFmpeg) to work. Download below or manage system plugins in the settings at any time."
       },
       "need_pdf_engine": {
-        "en": "You need to download a render engine to print PDFs"
-      },
-      "manage_in_setting": {
-        "en": "Manafe system plugins at any time from the app settings "
+        "en": "PDF Publisher needs a system plugin (render engine) to work. Download below or manage system plugins in the settings at any time."
       },
       "tooltip_offline_mode": {
         "en": "Switch the app online to use this feature",
@@ -781,7 +778,20 @@
       "add_workspace":{
         "en": "Add to Workspace",
         "fr": "Ajouter à l'espace de travail"
+      },
+      "internet_required_title":{
+        "en":"Switch to online mode?",
+        "fr":"Passer en mode en ligne ?"
+      },
+      "internet_required_message":{
+        "en":"This feature requires an internet connection. If you continue, {app_name} will be switched to online mode.",
+        "fr":"Cette fonctionnalité nécessite une connexion internet. Si vous continuez, {app_name} sera basculé en mode en ligne."
+      },
+      "accept": {
+        "en": "Accept",
+        "fr": "Accepter"
       }
+
     }
   },
   "components": {
