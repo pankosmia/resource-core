@@ -763,35 +763,78 @@
         "en": "PDF publisher",
         "fr": "Éditeur PDF"
       },
-      "content_manager":{
+      "content_manager": {
         "en": "Content manager",
         "fr": "Gestionnaire de contenu"
       },
-      "setting":{
-        "en":"Settings",
-        "fr":"Paramètres"
+      "setting": {
+        "en": "Settings",
+        "fr": "Paramètres"
       },
       "online_mode": {
         "en": "Online mode",
         "fr": "Mode en ligne"
       },
-      "add_workspace":{
+      "add_workspace": {
         "en": "Add to Workspace",
         "fr": "Ajouter à l'espace de travail"
       },
-      "internet_required_title":{
-        "en":"Switch to online mode?",
-        "fr":"Passer en mode en ligne ?"
+      "internet_required_title": {
+        "en": "Switch to online mode?",
+        "fr": "Passer en mode en ligne ?"
       },
-      "internet_required_message":{
-        "en":"This feature requires an internet connection. If you continue, {app_name} will be switched to online mode.",
-        "fr":"Cette fonctionnalité nécessite une connexion internet. Si vous continuez, {app_name} sera basculé en mode en ligne."
+      "internet_required_message": {
+        "en": "This feature requires an internet connection. If you continue, {app_name} will be switched to online mode.",
+        "fr": "Cette fonctionnalité nécessite une connexion internet. Si vous continuez, {app_name} sera basculé en mode en ligne."
       },
       "accept": {
         "en": "Accept",
         "fr": "Accepter"
+      },
+      "free_format": {
+        "en": "Free format",
+        "fr": "Format libre"
+      },
+      "builder": {
+        "en": "Builder",
+        "fr": "Constructeur"
+      },
+      "order_holder_first": {
+        "en": "Holder first",
+        "fr": "Détenteur/détentrice en premier"
+      },
+      "order_year_first": {
+        "en": "Year first",
+        "fr": "Année en premier"
+      },
+      "license": {
+        "en": "License",
+        "fr": "Licence"
+      },
+      "version": {
+        "en": "Version",
+        "fr": "Version"
+      },
+      "preview": {
+        "fr": "Aperçu",
+        "en": "Preview"
+      },
+      "preview_incomplete": {
+        "fr": "Aperçu incomplet",
+        "en": "Preview incomplete"
+      },
+      "ltr": {
+        "en": "Left-to-right (LTR)",
+        "fr": "Gauche à droite (LTR)"
+      },
+      "rtl": {
+        "en": "Right-to-left (RTL)",
+        "fr": "Droite à gauche (RTL)"
+      },
+      "script_direction": {
+        "en": "Script direction",
+        "fr": "Sens de lecture"
       }
-
     }
   },
   "components": {
