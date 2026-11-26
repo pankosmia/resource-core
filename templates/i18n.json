@@ -791,25 +791,25 @@
         "en": "Accept",
         "fr": "Accepter"
       },
-      "free_format": {
-        "en": "Free format",
-        "fr": "Format libre"
+      "licenced": {
+        "en": "Licenced",
+        "fr": "Licence"
       },
       "builder": {
         "en": "Builder",
         "fr": "Constructeur"
       },
       "order_holder_first": {
-        "en": "Holder first",
-        "fr": "Détenteur/détentrice en premier"
+        "en": "Name Year, Licence",
+        "fr": "Nom Année, Licence"
       },
       "order_year_first": {
-        "en": "Year first",
-        "fr": "Année en premier"
+        "en": "Year name, Licence",
+        "fr": "Année Nom, Licence"
       },
-      "license": {
-        "en": "License",
-        "fr": "Licence"
+      "licence": {
+        "en": "Licence",
+        "fr": "Sous licence"
       },
       "version": {
         "en": "Version",
@@ -834,6 +834,30 @@
       "script_direction": {
         "en": "Script direction",
         "fr": "Sens de lecture"
+      },
+      "year_helper": {
+        "en": "YYYY or YYYY-YYYY",
+        "fr": "AAAA ou AAAA-AAAA"
+      },
+      "none": {
+        "en": "None",
+        "fr": "Aucun"
+      },
+      "copyright_builder": {
+        "en": "Copyright builder",
+        "fr": "Constructeur de copyright"
+      },
+      "name": {
+        "en": "Name",
+        "fr": "Nom"
+      },
+      "order": {
+        "en": "Order",
+        "fr": "Ordre"
+      },
+      "OK": {
+        "en": "OK",
+        "fr": "OK"
       }
     }
   },
