@@ -578,13 +578,16 @@
         "en": "Language name"
       },
       "lang_code_bcp47_list": {
-        "en": " From standard list"
+        "en": " From standard list",
+        "fr": " À partir de la liste standard "
       },
       "lang_code_burrito": {
-        "en": " From another document"
+        "en": " From another document",
+        "fr": " À partir d'un autre document"
       },
       "lang_code_custom_language": {
-        "en": " Create custom language"
+        "en": " Create custom language",
+        "fr": " Créer une langue personnalisée"
       },
       "description_bcp47_list": {
         "en": "Choose a standard language code from the list.",
